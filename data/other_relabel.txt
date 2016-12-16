@@ -1,0 +1,809 @@
+Natural Language Processing	other	1		tech		
+cohesive text	other	1		linguistic unit		
+disambiguation process	other	1		other		
+LFG	other	1		tech		
+referential information	other	1		other		
+constraint	other	1		other	tech	
+trees	other	1		math	model	
+honorifics	other	3		linguistic unit		
+noun group	other	1		linguistic unit		
+word strings	other	1		linguistic unit		
+Category Cooccurrence Restrictions ( CCRs )	other	1		tech		
+hidden Markov models ( HMM )	other	1		model	tech	
+reference problems	other	1		other		
+sentence co-occurrences	other	1		other		
+Non Verbal and Multimodal Communication	other	1		other		
+large database	other	1		tech		
+word set based representation	other	1		other	tech	
+intentional structure	other	2		other		
+RCG	other	1		tech		
+expressions	other	1		linguistic unit		
+miscommunication	other	2		other		
+Czech	other	2		linguistic unit		
+homophone	other	2		linguistic unit		
+operational semantics	other	1		other	linguistic theory	
+probabilistic context-free grammars	other	1		tech		
+dialogue	other	2		other		
+utterance features	other	1		other		
+extensional reference	other	1		other		
+original document	other	1		linguistic unit		
+computational model	other	1		model		
+verbal and nonverbal grounding acts	other	1		other		
+speech processing	other	1		tech		
+arc	other	1		math		
+Chinese-English texts	other	1		linguistic unit	lr	
+actor paradigm	other	1		linguistic theory		
+node structures	other	1		math		
+word tokens	other	1		linguistic unit		
+translation process	other	1		other		
+error reduction	other	1		other	tech	
+linguistic expressiveness	other	1		other		
+rhetorical functions	other	1		other	tech	linguistic theory
+logical formulas	other	1		tech		
+human-machine interactions	other	1		tech	other	
+dialogue duration	other	1		other	measure(ment)	
+qualitative spatial constraints	other	1		other	tech	
+grammatical formalisms	other	1		linguistic theory	tech	
+dependency structure	other	1		other	model	
+context	other	2		linguistic unit		
+semantic constraints	other	1		other	tech	
+disjunctive feature structures	other	1		tech		
+named entities	other	1		linguistic unit		
+graphs	other	1		math		
+subtopic boundaries	other	1		other		
+Japanese kanji-kana characters	other	1		linguistic unit		
+discourse	other	12		other		
+phrasal and single word lexical paraphrases	other	1		linguistic unit	lr	
+transfer mappings	other	1		tech		
+word vectors	other	1		model	tech	
+sentence plan	other	1		other	model	
+unknown word features	other	1		other		
+source dependency parse	other	1		other	model	
+dependency grammars	other	1		tech		
+disjunctions	other	2		math		
+surface representation	other	1		other	tech	
+word dependent substitution costs	other	1		measure(ment)		
+ambiguity handling	other	1		tech		
+predicates	other	1		linguistic units		
+fully-connected first-order statistical class grammar	other	1		tech		
+automatic alignments	other	1		tech		
+frame semantics paradigm	other	1		linguistic theory		
+Word Identification	other	1		tech		
+dependency trees	other	1		model		
+Path-based inference rules	other	1		tech		
+word-dependent substitution costs	other	1		measure(ment)		
+Slavonic languages	other	1		linguistic units		
+language learning	other	1		other	tech	
+principle-and-parameters language framework	other	1		tech		
+free indexation	other	1		tech		
+parallel data	other	1		lr		
+defeasible reasoning	other	1		tech		
+entity-oriented language definition	other	1		tech		
+phrasal translation	other	1		tech		
+syntax-based constraint	other	1		other	tech	
+nodes	other	3		math		
+Korean Phonology Structure Grammar ( KPSG )	other	1		tech		
+path-based inference rules	other	1		tech		
+translation probabilities	other	1		measure(ment)		
+non-constituent coordination	other	1		other		
+listener	other	4		other		
+pronoun	other	1		linguistic unit		
+SENSEVAL-2 nouns	other	1		lr-prod		
+compound noun	other	1		linguistic unit		
+translation candidates	other	1		linguistic unit		
+syntactically motivated phrases	other	1		other		
+keywords	other	1		linguistic unit		
+English words	other	1		linguistic unit		
+local phrase re-ordering	other	1		tech		
+packed parse forests	other	1		other		
+LTAG	other	2		tech		
+Dynamic Grammars	other	1		tech		
+data structure	other	1		data structure		
+eye gaze	other	1		other		
+error characters	other	1		other		
+predicate-argument structures	other	2		linguistic unit	model	
+SENSEVAL-2 English lexical sample task	other	1		other		
+segment boundaries	other	1		other		
+syntactic paraphrases	other	1		linguistic unit	lr	
+non-contiguous phrases	other	1		linguistic unit		
+index	other	1		tech		
+chunks	other	1		linguistic unit		
+concepts	other	1		linguistic unit		
+function words	other	1		linguistic unit		
+interaction requirements	other	1		other		
+parallelism	other	1		other		
+determiners	other	2		linguistic unit		
+highly inflected languages	other	1		linguistic unit		
+average retrieval times	other	1		measure(ment)		
+skilled users	other	1		other		
+structured natural language data	other	1		other	lr	
+addressee	other	1		other		
+human plausible reasoning	other	1		tech		
+corpus	other	1		lr		
+source language sentences	other	1		linguistic unit		
+CCR formalism	other	1		tech		
+maximum likelihood criterion	other	1		math		
+attentional state	other	4		other		
+word	other	2		linguistic unit		
+isomorphic derivations	other	1		linguistic unit	tech	
+TAGs	other	3		tech		
+Unification Categorial Grammar ( UCG )	other	1		tech		
+highly inflective languages	other	1		linguistic unit		
+disposition	other	4		other		
+HBG model	other	1		tech	model	
+annotating scheme	other	1		tech		
+LSA-based and the cooccurrence-based word vectors	other	1		model	tech	
+structured data	other	2		other		
+nonverbal behaviors	other	1		other		
+pronouns	other	1		linguistic unit		
+parse trees	other	1		other	model	
+ambiguities	other	2		other		
+input	other	1		other		
+Explicitation	other	1		other		
+head nods	other	1		other		
+recognition network	other	1		tech		
+scenario templates	other	1		tech		
+fuzzy syllogism	other	1		tech		
+clusters	other	1		math		
+reference sets	other	2		other		
+syntactic information	other	1		other		
+clauses	other	2		linguistic unit		
+transition	other	1		other	tech	math
+lexical hierarchy	other	1		other	model	lr
+similarity	other	2		math	measure(ment)	
+grounding	other	1		other		
+morphemes	other	1		linguistic unit		
+semantic questions	other	1		other		
+editing terms	other	1		other		
+Horn logic program	other	1		tech		
+separation margin	other	1		math		
+logic	other	3		tech		
+world knowledge	other	2		other		
+Source and Target languages	other	1		linguistic unit		
+Wall Street Journal treebank	other	1		lr-prod		
+domain entities	other	1		other		
+sentence plans	other	1		other	model	
+Japanese texts	other	1		linguistic unit		
+user utterances	other	1		linguistic unit		
+web	other	1		tech		
+text	other	4		linguistic unit		
+references	other	1		other		
+lexical substitutions	other	2		other		
+Arabic-English translation task	other	1		other		
+TAG	other	1		tech		
+need	other	1		other		
+word n-grams	other	1		linguistic unit	model	lr
+paraphrase probability	other	1		measure(ment)		
+reranking task	other	1		other		
+meta-inference types	other	1		other		
+temporal relations	other	1		other		
+linguistic and non-linguistic knowledge	other	1		other		
+translations	other	1		other		
+text-plan input	other	1		other		
+learning	other	1		other	tech	
+Spanish	other	1		linguistic unit		
+coordination	other	1		other		
+lexical-syntactic forms	other	1		linguistic unit		
+fonts	other	1		other		
+Switchboard dialogues	other	1		other	lr	
+vector space model	other	1		tech		
+verb group	other	1		linguistic unit		
+strings	other	1		other		
+dialogue state	other	1		other		
+referring expressions	other	2		linguistic unit		
+translation output	other	1		other		
+saturation	other	1		other		
+user's informational goals	other	1		other		
+documents	other	1		other		
+commas	other	2		linguistic unit		
+vagueness	other	1		other		
+machine translation outputs	other	2		other		
+IE paradigm	other	1		other		
+dependency network representation	other	1		other	tech	
+histogram	other	1		math	tech	
+dialog	other	1		other		
+cyclic structures	other	1		other	model	
+verb	other	2		linguistic unit		
+logical well-formedness conditions	other	1		tech		
+test-score semantics	other	1		other	tech	
+word-trie	other	1		other	data structure	
+Boolean conditions	other	1		tech		
+source texts	other	1		linguistic unit		
+implicit intention component	other	1		other	tech	
+oral communication	other	1		other		
+lexicologists	other	1		other		
+synchronous grammars	other	1		tech		
+dialog schemata	other	1		tech		
+contexts	other	1		linguistic unit		
+Head Grammars	other	1		tech		
+signals	other	1		other		
+ambiguity	other	10		other		
+information sources	other	1		other		
+English phrases	other	1		linguistic unit		
+wide coverage English grammar	other	1		lr		
+attribute sequences	other	1		other		
+user	other	4		other		
+Arabic	other	1		linguistic unit		
+lexical generalizations	other	1		other		
+coherence rules	other	1		tech		
+probabilities	other	1		measure(ment)		
+USR	other	1		other		
+defeasibility	other	1		tech		
+native from non-native language essays	other	1		other		
+HDAGs	other	1		tech		
+user utterance	other	2		linguistic unit		
+rankings	other	1		other	model	
+weighted sum	other	1		math		
+training ( reference ) speaker	other	1		other		
+verb final language	other	1		linguistic unit		
+perspective-taking	other	1		other		
+contextual information	other	1		other		
+scalability	other	1		other		
+source interval projections	other	1		other	tech	
+system output	other	1		other		
+Multimedia answers	other	1		other		
+dialogue move	other	1		other		
+substitutions	other	1		other		
+ellipses	other	1		linguistic unit		
+path of arcs	other	1		data structure		
+limited domain semantics	other	1		tech		
+block selection criteria	other	1		tech		
+RCGs	other	1		tech		
+transcription errors	other	1		other		
+tag contexts	other	1		linguistic unit		
+verbal interactions	other	1		other		
+translation examples	other	1		lr		
+pattern	other	1		other	model	
+planning-based architecture	other	1		tech		
+Translations	other	1		other		
+named entity annotations	other	1		lr		
+restoration	other	1		other	tech	
+machine translation task	other	1		other		
+tree	other	2		math		
+word forms	other	1		linguistic unit		
+cooccurrence statistics	other	1		math		maybe merge math with measure(ment)?
+approximation error	other	1		math		
+part-of-speech tag sequences	other	1		linguistic unit		
+human transcription	other	1		tech		
+temporal anaphora resolution	other	1		tech		
+ranking	other	2		tech		
+hub	other	1		other	model	
+semantic interpretation	other	1		other	tech	
+speech repairs	other	1		other		
+reference word string	other	1		linguistic unit		
+cooperative responses	other	2		other		
+word fragments	other	1		linguistic unit		
+subjective human judgments	other	1		other		
+probabilistic synchronous dependency insertion grammar	other	1		tech		
+constituent	other	1		linguistic unit		
+information workers	other	1		other		
+Basque	other	1		linguistic unit		
+SMT research community	other	1		other		
+edges	other	5		math		
+natural language input	other	1		other		
+language L	other	1		other		
+style	other	1		other		
+path	other	1		math		
+MUC-3 evaluation	other	1		other		
+syntax formalisms	other	1		tech		
+rewriting systems	other	1		tech		
+Montague semantics	other	2		tech	linguistic theory	
+learning methodology	other	1		other		
+parsing data	other	1		other		
+non-deterministic parsing choices	other	1		tech		
+concept	other	1		other		
+natural language generation community	other	1		other		
+character	other	2		linguistic unit		
+Japanese homophone errors	other	2		other		
+Lexical-Functional Grammars ( LFG )	other	1		tech		
+statistical translation model	other	1		model		
+strength of potential antecedence	other	1		other		
+word segmentation problem	other	2		other		
+dependency relations	other	2		other		
+answer candidates	other	1		other		
+similarity measures	other	1		measure(ment)		
+vocabulary size	other	1		measure(ment)		
+language learning model	other	1		model		
+consistency problem	other	1		other		
+abstracts	other	2		linguistic unit		
+extraction and conversion rules	other	1		tech		
+spatial concepts	other	1		other		
+entries	other	1		other		
+task-oriented and goal-directed dialogs	other	1		other		
+inheritance	other	2		tech		
+entities	other	1		other		
+ontology	other	1		tech		
+WH-questions	other	1		linguistic unit		
+English alphabets	other	1		linguistic unit		
+logic-based grammar formalism	other	1		tech		
+ungrammatical input	other	1		other		
+request	other	2		other		
+derivation	other	1		other		
+user-defined performance thresholds	other	1		measure(ment)	tech	
+verbs	other	1		linguistic unit		
+Unification-based grammar formalisms	other	1		tech		
+cue phrases	other	3		linguistic unit		
+discourse segments	other	1		other		
+Minimalist grammars	other	1		tech		
+linguistic objects	other	1		linguistic unit		
+baseline results	other	1		other		
+parses	other	2		model		
+language families	other	1		linguistic unit		
+English sentences	other	1		linguistic unit		
+terminal and non-terminal edges	other	1		math		
+homophone errors	other	3		other		
+negative feedback	other	1		other		
+linguistic information	other	1		other	math	
+arcs	other	1		other		
+genre	other	1		linguistic unit		
+Honorifics	other	1		linguistic unit		
+speakers	other	3		other		
+referents	other	3		linguistic unit		
+content-independent formalism	other	1		tech		
+analysis cost	other	1		measure(ment)		
+m-th order Markov chain model	other	1		model	tech	
+processing	other	1		tech		
+computational problems	other	1		other		
+predicate argument structures	other	1		linguistic unit		
+concept-based seeds	other	1		tech		
+bilingual texts	other	1		lr		
+MT output	other	1		other		
+ATIS ( Air Travel Information System ) domain	other	1		other		
+MADCOW ( Multi-site ATIS Data COllection Working group )	other	1		other		
+human judges	other	1		other		
+parse record	other	1		data structure		
+empirical MT research	other	1		other		
+translation relation	other	2		other		
+generalized metaphor mappings	other	1		tech		
+topic	other	1		linguistic unit		
+digital learning	other	1		tech		
+Oral communication	other	1		other		
+derivation tree	other	1		other		
+hubs	other	3		other	model	
+parse	other	2		model		
+length-based or translation-based criterion	other	1		tech		
+morpheme	other	1		linguistic unit		
+spatial descriptions	other	1		other		
+repository	other	1		tech		
+language	other	3		linguistic unit		
+computational theory	other	1		other		
+legal text hierarchy	other	1		other		
+statistical MT architectures	other	1		tech		
+Determiners	other	1		linguistic unit		
+anaphora resolution	other	1		tech		
+word matchings	other	1		other		
+domain dependence	other	1		other		
+local trees	other	1		model		
+constituents	other	1		linguistic unit		
+TREC 2003 and TREC 2004 QA tracks	other	1		other		
+generalized metaphor	other	1		other		
+conversational speech	other	1		other		
+seed sentences	other	1		lr		
+dialogue act	other	1		other		
+word-senses	other	1		linguistic unit		
+priors	other	1		math		
+noisy channel framework	other	1		tech		
+syntactic ambiguities	other	1		other		
+Markov probability	other	1		math	measure(ment)	merge he classes!
+feature structures	other	3		tech		
+output quality	other	1		measure(ment)		
+typicality	other	1		other		
+quadratic time	other	1		other		
+syntactic descriptions	other	1		other		
+parse tree	other	2		model		
+hand-crafted rules	other	1		tech		
+miscommunications	other	1		other		
+segment order	other	1		other		
+large vocabulary continuous speech recognition	other	1		tech		
+NLP tasks	other	1		other		
+linguistic theory	other	2		linguistic theory		
+databases	other	1		tech		
+noisy output	other	1		other		
+language learning experiment	other	1		other		
+long distance constraints	other	1		other		
+redundancy elimination problem	other	1		other		
+Dialogue strategies	other	1		other		
+discourse structure	other	1		other	model	
+manual evaluation	other	1		tech		
+manual transcription	other	1		tech		
+grammar coverage problems	other	1		other		
+spoken multiparty dialogue	other	1		lr		
+spoken dialogue	other	2		lr		
+Synchronous dependency insertion grammars	other	1		tech		
+assessors	other	2		other		
+event terms	other	1		linguistic unit		
+syntactic structure	other	1		other	model	
+natural language texts	other	2		linguistic unit		
+human judgment	other	2		other		
+user modeling component	other	1		other		
+evaluation methodology	other	1		tech		
+users	other	5		other		
+phrases	other	10		linguistic unit		
+node	other	1		math		
+in-degree	other	1		math		
+fuzzy quantifier	other	1		math	tech	
+text collections	other	1		linguistic unit		
+costs	other	1		measure(ment)		
+dependency pointers	other	1		tech		
+associative similarity	other	2		measure(ment)		
+nouns	other	1		linguistic unit		
+meaning structure	other	1		other	model	
+LSA-based , cooccurrence-based and dictionary-based methods	other	1		tech		
+zero pronouns	other	1		linguistic unit		
+target texts	other	1		linguistic unit		
+machine translations	other	1		linguistic unit		
+source-language	other	1		linguistic unit		
+extensional equivalence	other	1		other	model	
+French sentence	other	1		linguistic unit		
+personal names	other	1		linguistic unit		
+temporal adverbs	other	1		linguistic unit		
+minimal DFA	other	1		tech		
+mathematical formalism	other	1		tech	math	
+manual word alignments	other	1		lr		
+non-literal aspects of communication	other	2		other		
+polynomial time solution	other	1		tech		
+corpus data	other	1		lr		
+generative model	other	1		model	linguistic theory	
+human cognition	other	1		other		
+information need	other	1		other		
+Senseval-3 Chinese lexical sample task	other	1		other		
+IBM Models 1-2	other	1		model		
+polysemic verbs	other	1		linguistic unit		
+semantic roles	other	1		linguistic unit		
+formulas	other	1		math		
+range concatenation languages [RCL]	other	1		linguistic unit		
+abstract moves	other	1		other		
+blocks	other	2		other		
+event type networks	other	1		math	model	
+Deictic reference	other	1		other		
+expert human translations	other	1		linguistic unit		
+lexical rules	other	1		tech	other	
+linguistic annotation	other	1		tech		
+behavioral specification	other	1		other		
+training phase	other	1		other		
+unstemmed text	other	1		lr		
+proposition	other	6		other		
+verbal and nonverbal means	other	1		other		
+linguistic introspection	other	1		tech		
+grammaticality	other	1		other		
+demonstrative expressions	other	1		linguistic unit		
+real-time spoken language translation	other	1		tech		
+linguistic segments	other	1		other		
+KPSG	other	1		tech		
+human communication needs	other	1		other		
+Node-based inference rules	other	1		tech		
+reestimation formulas	other	1		tech		
+linguistic concepts	other	2		linguistic unit		
+domains	other	1		linguistic unit		
+coordinate conjunctions	other	1		linguistic unit		
+Russian	other	1		linguistic unit		
+conversational context	other	1		other		
+ill-formed input	other	1		other		
+speech recognition hypotheses	other	1		other		
+coordinate conjunction	other	1		linguistic unit		
+transition graphs	other	1		math		
+inference	other	1		tech		
+top human-ranked sentence plan	other	1		model		
+polynomial time approximations	other	1		model		
+CCRs	other	2		tech		
+questions	other	2		linguistic unit		
+MT evaluation techniques	other	1		tech		
+discourses	other	1		linguistic unit		
+speaker's gaze information	other	1		other		
+segment contiguity	other	1		other		
+m-component mixture	other	1		other		
+chart	other	1		tech		
+complexity	other	2		measure(ment)	math	
+co-occurrence patterns	other	1		model		
+overt case markers	other	1		linguistic unit		
+interpretation	other	1		other		
+word disambiguation	other	1		tech		
+dictionary-based word vectors	other	1		math	model	
+lexical cross-relations	other	1		other		
+Web	other	1		tech		
+inflection	other	2		other		
+range concatenation grammar [RCG] formalism	other	1		tech		
+oracle	other	1		tech		
+NE types	other	1		linguistic unit		
+question , passage , and/or answer levels	other	1		other		
+relations	other	1		other		
+monolingual UCG	other	1		tech		
+units of translation	other	1		linguistic unit		
+suffix	other	1		linguistic unit		
+statistical information	other	1		other		
+common ground	other	1		other		
+unknown words	other	4		linguistic unit		
+machine translation output	other	2		other		
+feature sets	other	1		model	math	tech
+predicate calculus notation	other	1		tech		
+overlapping speech	other	1		other		
+compound nouns	other	2		linguistic unit		
+feedback	other	1		other		
+context free languages	other	1		tech		
+valency constraints	other	1		other		
+discourse understanding process	other	2		other		
+target domain	other	1		linguistic unit		
+polysemous word	other	1		linguistic unit		
+reference model	other	1		model		
+shallow linguistic features	other	1		model		
+Spoken language translation	other	1		tech		
+event map	other	1		model		
+linguistic structure	other	2		model	other	
+intelligibility	other	1		other		
+hypothesis	other	2		other		
+Requestors	other	1		other		
+worst-case parsing time complexity	other	1		measure(ment)		
+NE	other	1		linguistic unit		
+polynomial time	other	1		measure(ment)		
+Isomorphic Grammars	other	1		tech		
+expectations	other	1		other		
+linguistic representation	other	1		tech		
+question answering session	other	1		other		
+target speaker	other	3		other		
+newspaper stories	other	1		lr		
+logical expression	other	1		tech	math	
+descriptors	other	1		tech		
+unrestricted texts	other	1		lr		
+word string	other	2		linguistic unit		
+CFG filter	other	1		tech		
+syntactic ambiguity resolution	other	1		tech		
+anaphora	other	1		linguistic unit		
+discourse constraint	other	1		tech		
+predicate	other	2		linguistic unit		
+generative phonological approach	other	1		linguistic theory		
+English sentence structure	other	1		model		
+features	other	12		tech	model	
+tokens	other	1		linguistic unit		
+spatial attributes	other	1		linguistic unit		
+category transitions	other	1		other		
+system response	other	1		other		
+move	other	1		other		
+non-terminal symbol	other	1		math		
+discourse phenomena	other	1		linguistic unit		
+attentional focus	other	1		other		
+speaker's intention	other	1		other		
+Chinese word sense disambiguation model	other	1		model		
+explicitation	other	1		other		
+word set representation	other	1		tech		
+islands	other	2		other		
+system users	other	1		other		
+purposes	other	1		other		
+target language	other	2		linguistic unit		
+inferences	other	1		other		
+arguments	other	2		linguistic unit		
+extraposition grammars	other	1		tech		
+natural language environment	other	1		other		
+speaker	other	3		other		
+human language learners	other	1		other		
+meaning	other	6		linguistic unit		
+hierarchies	other	1		model		
+morphology	other	1		linguistic theory		
+organizational and discourse strategies	other	1		other		
+expert human translation	other	1		lr		
+benchmark system	other	1		tech		
+spontaneous speech	other	1		other		
+English word	other	1		linguistic unit		
+Dynamic Hierarchical Phrasal Lexicon ( DHPL )	other	1		tech		
+Chomsky's minimalist program	other	1		linguistic theory		
+discourse task	other	1		other		
+polysemy	other	1		other		
+formalisms	other	2		tech		
+propositions	other	1		other		
+unsupervised word alignment component	other	1		tech		
+out-degree	other	1		math		
+semantic networks	other	1		model		
+USRs	other	1		tech		
+natural language	other	4		linguistic unit		
+language pairs	other	5		linguistic unit		
+stems	other	1		linguistic unit		
+sense	other	3		linguistic unit		
+SRHs	other	1		tech		
+syntactic categories	other	1		linguistic unit		
+speech recognition hypotheses ( SRH )	other	1		tech		
+lexical features	other	1		other		
+categorial grammar	other	1		tech		
+context-free grammars	other	1		tech		
+hierarchy	other	1		model		
+queries	other	1		other		
+memory	other	4		other		
+theory	other	3		other		
+polarization	other	1		tech		
+part of speech information	other	1		other		
+graph	other	1		math		
+numerical constraints	other	1		tech		
+Japanese	other	1		linguistic unit		
+purpose	other	1		other		
+HPSG	other	3		tech		
+unification-based grammar formalism	other	1		tech		
+Japanese bunsetsu	other	2		linguistic unit		
+large-scale grammars	other	1		tech		
+edge	other	1		math		
+logical form language	other	1		tech		
+dialogue patterns	other	1		model		
+pharmaceutical news archive	other	1		lr		
+scope ambiguity	other	1		other		
+hastiness	other	1		other		
+transition probabilities	other	1		measure(ment)		
+sentences	other	10		linguistic unit		
+noun phrases	other	1		linguistic unit		
+semantic grammar	other	1		tech		
+grammar model	other	1		model		
+Arabic-English	other	1		linguistic unit		
+robust parsing capability	other	1		tech		
+probabilistic spectral mapping	other	1		tech		
+recognition tasks	other	1		other		
+Arabic's rich morphology	other	1		linguistic unit		
+candidates	other	4		other		
+linguistic tools	other	1		tool		
+conversational cues	other	1		other		
+segments	other	2		linguistic unit		
+logical definition	other	2		tech		
+redundancy	other	2		other		
+Prolog form	other	1		other		
+free word order	other	1		other		
+high dimensionality space	other	1		math		
+human language learning process	other	1		other		
+char	other	1		linguistic unit		
+paragraph	other	1		linguistic unit		
+textual representation	other	1		other		
+document representation	other	1		tech		
+exponential time	other	1		measure(ment)		
+lexical gap	other	1		other		
+underspecified chart representations	other	1		tech		
+Stabler's formalization	other	1		other		
+NP- and non-NP-antecedents	other	1		other		
+IBM statistical MT system	other	1		tech		
+intensional concepts	other	1		other		
+tree-adjoining grammars ( TAG )	other	1		tech		
+syntax	other	2		linguistic unit		
+abduction	other	1		tech		
+Slovak	other	1		linguistic unit		
+grammar formalisms	other	1		tech		
+training speakers	other	3		other		
+event networks	other	1		tech		
+submanifold	other	1		math	tech	
+kanji-kana characters	other	1		linguistic unit		
+qualitative user evaluation	other	1		tech		
+hard problems	other	1		other		
+information redundancy	other	1		other		
+skill level	other	1		other		
+taxonomic similarity	other	2		measure(ment)		
+individual users	other	1		other		
+phrase	other	1		linguistic unit		
+lexical , syntactic , semantic , and structural information	other	1		other		
+reference failures	other	1		other		
+N-Best sentence hypotheses	other	1		other		
+Human-Machine Communication	other	1		tech		
+linguistically sophisticated representations	other	2		tech		
+suffix array-based data structure	other	1		data structure		
+move-tagged abstracts	other	1		lr		
+free text	other	1		other		
+one sense per collocation observation	other	2		linguistic theory		
+speaker's utterance	other	1		other		
+inferential theory for natural language presuppositions	other	1		linguistic theory		
+annotated data	other	1		lr		
+binary relational calculus notation	other	1		tech		
+parsing flexibilities	other	1		other		
+Sentence ambiguities	other	1		other		
+heuristics	other	1		tech		
+model parameters	other	1		model	tech	
+source text	other	1		other		
+meeting context	other	2		other		
+defeat rules	other	1		tech		
+lexical entries	other	1		other		
+utterance	other	3		other		
+human annotators	other	1		other		
+raw text	other	1		other		
+translation equivalents	other	1		other		
+domain	other	2		linguistic unit		
+intentions	other	2		other		
+top-down scope information	other	1		other		
+paraphrases	other	6		other		
+spoken language system domains	other	1		linguistic unit		
+superordinate substitution	other	1		tech		
+semantic network	other	1		model		
+lexical and syntactic features	other	1		other		
+document	other	1		linguistic unit		
+document descriptors ( keywords )	other	1		linguistic unit		
+grammatical knowledge	other	1		other		
+sentence	other	13		linguistic unit		
+verbal interaction	other	1		other		
+baseline system	other	1		tech		
+message passing protocols	other	1		tech		
+baseline methods	other	1		tech		
+phrase boundary heuristics	other	1		tech		
+words	other	10		linguistic unit		
+reference	other	1		other		
+subpredicates	other	2		linguistic unit		
+language definition	other	1		model		
+entailment	other	1		other		
+Japanese sentence structure	other	1		model		
+communication	other	1		other		
+dags	other	1		data structure		
+dimensionalized space	other	1		math		
+ASR output	other	2		other		
+English	other	5		linguistic unit		
+data objects	other	1		other		
+semantic categories	other	1		linguistic unit		
+default reasoning	other	1		tech		
+pronominalization	other	1		other		
+n-best speech/language integration architecture	other	1		tech		
+weighed sum	other	1		math		
+utterances	other	6		other		
+IBM models	other	1		model		
+dependency structures	other	2		model		
+Referring Expressions	other	1		linguistic unit		
+conjunction	other	1		linguistic unit		
+eigenvectors	other	2		math		
+polysemous words	other	1		linguistic unit		
+structures	other	1		other		
+events	other	2		other		
+dominance graphs	other	1		math		
+ellipsis	other	1		other		
+indexings	other	1		tech		
+participants	other	1		other		
+annotation experiment	other	1		other		
+morpheme sequence	other	1		other		
+directed graphs	other	1		math		
+knowledge level	other	1		other		
+resource sensitive logic	other	1		tech		
+logical model	other	1		model		
+discourse-relevant purposes	other	1		other		
+semantic coherence	other	1		other		
+anaphoric expressions	other	1		other		
+failures of reference	other	1		other		
+inheritance mechanisms	other	1		tech		
+anaphora references	other	1		other		
+languages	other	2		linguistic unit		
+disjunctive normal form	other	1		tech		
+cohesion constraint	other	1		tech		
+actors	other	1		other		
+syntactic and semantic expectations	other	1		other		
+block reordering	other	1		tech		
+spanning edges	other	1		math		
+spoken language translation	other	1		tech		
+underspecified semantic representation ( USR )	other	1		tech		
+database query applications	other	1		tech		
+Tree Adjoining Grammars	other	1		tech		
+search space	other	1		math		
+novice users	other	1		other		
+computational complexity	other	4		measure(ment)		
+syllables	other	1		linguistic unit		
+sublanguage	other	1		linguistic unit		
+output	other	3		other		
+PERSON NE	other	1		linguistic unit		
+certainty conditions	other	1		tech		
+linguistic pattern	other	1		model		
+synchronous TAGs	other	2		tech		
+alternative markers	other	1		linguistic unit		
+Japanese patent claim sentences	other	1		linguistic unit		
+phrase translations	other	3		linguistic unit		
+parsing complexity	other	1		measure(ment)		
+part-of-speech-based criterion	other	1		tech		
+root	other	1		math		
+inference types	other	4		tech		
+robust analysis	other	1		tech		
+semantics	other	4		linguistic theory		
+interruptions	other	2		other		
+denotational semantics	other	1		linguistic theory		
+source language	other	1		linguistic unit		
+heuristic rules	other	1		tech		
+exponential time lower-bound	other	1		tech		
+patterns	other	1		model		
+control structure	other	1		tech		
+path values	other	1		math		
+answers	other	2		other		
+semantic set	other	1		other		
+semantic verb classes	other	1		linguistic unit		
+sentence condensation	other	1		tech		
+Korean	other	1		linguistic unit		
+core modules	other	1		tech		
+bilingual or multi-lingual texts	other	1		lr		
+typed feature structures	other	1		tech		
+lexical-cohesion and conversational features	other	2		other		
+dependency treelet translation pairs	other	1		lr		
+real-valued features	other	1		other		
+pilot system	other	1		tech		
+candidate parses	other	1		model		
+structure	other	1		other		
+basic mapping	other	1		tech		

@@ -3,7 +3,7 @@ left corner parsing algorithm	tech	1
 bootstrapping approach	tech	1
 cohesive text	other	1
 disambiguation process	other	1
-character and word error rate	measure(ment)	1
+character and word error rate	measure	1
 Web-based computer-assisted academic writing	tech	1
 LFG	other	1
 block unigram model	model	1
@@ -16,14 +16,14 @@ noun group	other	1
 Simulated annealing approach	tech	1
 word strings	other	1
 Category Cooccurrence Restrictions ( CCRs )	other	1
-average precision	measure(ment)	1
+average precision	measure	1
 hidden Markov models ( HMM )	other	1
 text-understanding systems	tech	1
 language processing modules	tech	1
 learning algorithm	tech	1
 reference problems	other	1
 sentence co-occurrences	other	1
-paraphrase classification accuracy	measure(ment)	1
+paraphrase classification accuracy	measure	1
 Non Verbal and Multimodal Communication	other	1
 large database	other	1
 identification of paraphrases	tech	1
@@ -57,10 +57,10 @@ Heuristic Parsing Model ( HPM )	model	1
 speech processing	other	1
 arc	other	1
 Chinese-English texts	other	1
-average precision metric	measure(ment)	1
+average precision metric	measure	1
 actor paradigm	other	1
 Begin/After tagging	tech	1
-MRR	measure(ment)	1
+MRR	measure	1
 LMs	model	1
 node structures	other	1
 word tokens	other	1
@@ -92,14 +92,14 @@ disjunctive feature structures	other	1
 named entities	other	1
 graphs	other	1
 Node-based inference	tech	1
-recall	measure(ment)	3
+recall	measure	3
 subtopic boundaries	other	1
 Bayesian learning	tech	1
 Japanese kanji-kana characters	other	1
 trigram language model	model	1
 forward-backward algorithm	tech	1
 discourse	other	12
-NIST evaluation metric	measure(ment)	1
+NIST evaluation metric	measure	1
 Machine Translation	tech	1
 phrasal and single word lexical paraphrases	other	1
 heuristic learning	tech	1
@@ -134,7 +134,7 @@ vocabulary	lr	1
 Similarity-driven Transfer System ( SimTran )	tech	1
 predicates	other	1
 fully-connected first-order statistical class grammar	other	1
-evaluation measures	measure(ment)	3
+evaluation measures	measure	3
 WSI algorithm	tech	1
 automatic alignments	other	1
 frame semantics paradigm	other	1
@@ -166,7 +166,7 @@ entity-oriented language definition	other	1
 phrasal translation	other	1
 syntax-based constraint	other	1
 nodes	other	3
-translation quality	measure(ment)	3
+translation quality	measure	3
 Korean Phonology Structure Grammar ( KPSG )	other	1
 path-based inference rules	other	1
 translation probabilities	other	1
@@ -210,7 +210,7 @@ predicate-argument structures	other	2
 SENSEVAL-2 English lexical sample task	other	1
 Penn Treebank WSJ	lr-prod	1
 segment boundaries	other	1
-quality	measure(ment)	1
+quality	measure	1
 syntactic paraphrases	other	1
 non-contiguous phrases	other	1
 voting- and arbiter-based combination strategies	tech	1
@@ -230,9 +230,9 @@ syntactic disambiguation	tech	1
 highly inflected languages	other	1
 average retrieval times	other	1
 translation system	tech	1
-confidence measures	measure(ment)	1
+confidence measures	measure	1
 skilled users	other	1
-POURPRE	measure(ment)	2
+POURPRE	measure	2
 bilingual parallel corpus	lr	1
 structured natural language data	other	1
 addressee	other	1
@@ -241,7 +241,7 @@ human plausible reasoning	other	1
 pre-tagged corpus	lr	1
 corpus	other	1
 expert systems	tech	1
-utterance classification performance	measure(ment)	1
+utterance classification performance	measure	1
 source language sentences	other	1
 CCR formalism	other	1
 head-orientation	tech	1
@@ -309,7 +309,7 @@ Horn logic program	other	1
 separation margin	other	1
 logic	other	3
 world knowledge	other	2
-exact match accuracy	measure(ment)	1
+exact match accuracy	measure	1
 affix removal	tech	1
 Source and Target languages	other	1
 Roget's Thesaurus	lr-prod	1
@@ -331,7 +331,7 @@ syntax-based decoder	tech	1
 kernel function	tech	1
 retrieval	tech	1
 Arabic-English translation task	other	1
-alignment quality	measure(ment)	1
+alignment quality	measure	1
 Interactive Machine Translation	tech	1
 TAG	other	1
 BU recognition system	lr	1
@@ -343,7 +343,7 @@ interface	tech	2
 graphical model	tech	1
 paraphrase probability	other	1
 word sense disambigation models	tech	1
-automatic evaluation measures	measure(ment)	1
+automatic evaluation measures	measure	1
 reranking task	other	1
 meta-inference types	other	1
 temporal relations	other	1
@@ -387,7 +387,7 @@ dialog	other	1
 cyclic structures	other	1
 verb	other	2
 logical well-formedness conditions	other	1
-similarity measure	measure(ment)	1
+similarity measure	measure	1
 translation systems	tech	1
 NLP techniques	tech	2
 test-score semantics	other	1
@@ -398,7 +398,7 @@ type-unification	tech	1
 Boolean conditions	other	1
 source texts	other	1
 implicit intention component	other	1
-BLEU	measure(ment)	4
+BLEU	measure	4
 oral communication	other	1
 Path-based inference	tech	2
 commonsense reasoning	tech	1
@@ -468,9 +468,9 @@ limited domain semantics	other	1
 block selection criteria	other	1
 RCGs	other	1
 transcription errors	other	1
-accuracy rate	measure(ment)	2
+accuracy rate	measure	2
 tag contexts	other	1
-recognition accuracy	measure(ment)	1
+recognition accuracy	measure	1
 verbal interactions	other	1
 translation examples	other	1
 pattern	other	1
@@ -498,7 +498,7 @@ Combination methods	tech	1
 Czech-English statistical machine translation system	tech	1
 SUMMIT recognizer	tool	1
 ECA	tech	1
-NIST	measure(ment)	2
+NIST	measure	2
 automatic extraction	tech	1
 ranking	other	2
 text browser	tech	1
@@ -525,7 +525,7 @@ information workers	other	1
 Basque	other	1
 CSR	tech	1
 evaluation techniques	tech	1
-word or semantic error rate	measure(ment)	1
+word or semantic error rate	measure	1
 SMT research community	other	1
 edges	other	5
 natural language input	other	1
@@ -548,7 +548,7 @@ concept	other	1
 machine readable dictionaries	lr	1
 natural language generation community	other	1
 word segmentation	tech	1
-user satisfaction	measure(ment)	1
+user satisfaction	measure	1
 character	other	2
 Japanese homophone errors	other	2
 Lexical-Functional Grammars ( LFG )	other	1
@@ -635,17 +635,17 @@ October '91 dry-run test set	lr-prod	1
 Honorifics	other	1
 speakers	other	3
 Japanese-English translation	tech	1
-evaluation measure	measure(ment)	1
+evaluation measure	measure	1
 ambiguity packing and stochastic disambiguation techniques	tech	1
 interactive question-answering ( Q/A ) system	tech	1
 referents	other	3
 CSR corpus	lr-prod	3
 addressee identification	tech	1
 computer text generation system	tech	1
-F-measure	measure(ment)	1
+F-measure	measure	1
 content-independent formalism	other	1
 MT system	tech	3
-PER	measure(ment)	1
+PER	measure	1
 analysis cost	other	1
 m-th order Markov chain model	other	1
 processing	other	1
@@ -716,7 +716,7 @@ tagging strategies	tech	2
 conversational speech	other	1
 seed sentences	other	1
 dialogue act	other	1
-translation accuracy	measure(ment)	1
+translation accuracy	measure	1
 word-senses	other	1
 Error analysis	tech	1
 priors	other	1
@@ -748,7 +748,7 @@ noisy output	other	1
 language learning experiment	other	1
 long distance constraints	other	1
 hand-crafted template-based generation component	tech	1
-error rate	measure(ment)	1
+error rate	measure	1
 redundancy elimination problem	other	1
 probabilistic model	model	1
 Dialogue strategies	other	1
@@ -773,7 +773,7 @@ event terms	other	1
 transfer system	tech	1
 language understanding and generation modules	tech	1
 syntactic structure	other	1
-precision	measure(ment)	3
+precision	measure	3
 natural language texts	other	2
 human judgment	other	2
 user modeling component	other	1
@@ -876,7 +876,7 @@ asynchronous message passing	tech	1
 parallel text	lr	1
 human language technology	tech	1
 reestimation formulas	other	1
-MT evaluation	measure(ment)	1
+MT evaluation	measure	1
 linguistic concepts	other	2
 decoding	tech	2
 domains	other	1
@@ -931,7 +931,7 @@ Cooperative Model	tech	2
 TAP-XL Automated Analyst's Assistant	tool	1
 Thai-English language identification	tech	1
 natural language search engines	tech	1
-performance	measure(ment)	5
+performance	measure	5
 SPRINT	tool	1
 question , passage , and/or answer levels	other	1
 relations	other	1
@@ -961,7 +961,7 @@ context free languages	other	1
 valency constraints	other	1
 discourse understanding process	other	2
 target domain	other	1
-agreement	measure(ment)	1
+agreement	measure	1
 prototype system	tech	1
 polysemous word	other	1
 phone-string classifier	tech	1
@@ -985,7 +985,7 @@ system combination	tech	1
 translation lexicons	lr	1
 worst-case parsing time complexity	other	1
 NE	other	1
-predictive performance	measure(ment)	2
+predictive performance	measure	2
 statistical POS tagger	tech	1
 spoken dialogue system	tech	1
 polynomial time	other	1
@@ -999,7 +999,7 @@ question answering session	other	1
 phone n-gram model	model	1
 language modeling	tech	1
 stemmer	tech	2
-translation speed and quality	measure(ment)	1
+translation speed and quality	measure	1
 target speaker	other	3
 newspaper stories	other	1
 logical expression	other	1
@@ -1009,7 +1009,7 @@ Parsing	tech	1
 word string	other	2
 CFG filter	other	1
 German corpus	lr	1
-component performance	measure(ment)	1
+component performance	measure	1
 training	tech	2
 tree-based models	model	1
 syntactic ambiguity resolution	other	1
@@ -1072,7 +1072,7 @@ word-trigram recognition	tech	1
 English word	other	1
 Dynamic Hierarchical Phrasal Lexicon ( DHPL )	other	1
 Chomsky's minimalist program	other	1
-WSD evaluation methodology	measure(ment)	1
+WSD evaluation methodology	measure	1
 English-Chinese parallel corpora	lr	1
 continuous density hidden Markov models ( CDHMM )	model	1
 discourse task	other	1
@@ -1115,9 +1115,9 @@ theory	other	3
 polarization	other	1
 Grolier's Encyclopedia	lr-prod	1
 part of speech information	other	1
-BLEU scores	measure(ment)	1
+BLEU scores	measure	1
 graph	other	1
-accuracy	measure(ment)	3
+accuracy	measure	3
 FSM	tech	1
 numerical constraints	other	1
 Statistical Learning Model ( SLM )	tech	1
@@ -1138,7 +1138,7 @@ dialogue patterns	other	1
 phrase-based models	model	2
 pharmaceutical news archive	other	1
 scope ambiguity	other	1
-measure	measure(ment)	2
+measure	measure	2
 automatic evaluation	tech	1
 hastiness	other	1
 transition probabilities	other	1
@@ -1169,7 +1169,7 @@ recognition	tech	1
 logical definition	other	2
 redundancy	other	2
 kernel functions	tech	1
-speech recognition word and sentence error rates	measure(ment)	1
+speech recognition word and sentence error rates	measure	1
 Prolog form	other	1
 conditional loglinear models	model	1
 free word order	other	1
@@ -1190,7 +1190,7 @@ exponential time	other	1
 lexical gap	other	1
 domain independent acoustic models	model	1
 underspecified chart representations	other	1
-baseline	measure(ment)	1
+baseline	measure	1
 Stabler's formalization	other	1
 NP- and non-NP-antecedents	other	1
 IBM statistical MT system	other	1
@@ -1202,7 +1202,7 @@ abduction	other	1
 Slovak	other	1
 data	lr	1
 grammar formalisms	other	1
-NIST score	measure(ment)	1
+NIST score	measure	1
 training speakers	other	3
 event networks	other	1
 submanifold	other	1
@@ -1221,7 +1221,7 @@ taxonomic similarity	other	2
 individual users	other	1
 phrase	other	1
 lexical , syntactic , semantic , and structural information	other	1
-classification accuracy	measure(ment)	2
+classification accuracy	measure	2
 reference failures	other	1
 N-Best sentence hypotheses	other	1
 Human-Machine Communication	other	1
@@ -1266,7 +1266,7 @@ intentions	other	2
 top-down scope information	other	1
 JAVELIN system	tool	1
 paraphrases	other	6
-retrieval accuracy	measure(ment)	2
+retrieval accuracy	measure	2
 spoken language system domains	other	1
 superordinate substitution	other	1
 sense-tagged training data	lr	1
@@ -1303,7 +1303,7 @@ Japanese sentence structure	other	1
 COMPLEX	lr-prod	1
 spectral clustering based approach	tech	1
 communication	other	1
-standard evaluation metric	measure(ment)	1
+standard evaluation metric	measure	1
 dags	other	1
 Finite State Model ( FSM )	tech	1
 dimensionalized space	other	1
@@ -1319,9 +1319,9 @@ default reasoning	other	1
 information extraction ( IE ) systems	tech	1
 dialogue data	lr	1
 trigram models	model	1
-mutual information	measure(ment)	1
+mutual information	measure	1
 automated evaluation techniques	tech	1
-confidence	measure(ment)	1
+confidence	measure	1
 JAVELIN	tool	1
 pronominalization	other	1
 n-best speech/language integration architecture	other	1
@@ -1342,12 +1342,12 @@ polysemous words	other	1
 title-driven name recognition	tech	1
 structures	other	1
 events	other	2
-BLEU score	measure(ment)	1
+BLEU score	measure	1
 feature structure-directed generation	tech	1
 dominance graphs	other	1
 ellipsis	other	1
 indexings	other	1
-evaluation metrics	measure(ment)	1
+evaluation metrics	measure	1
 speaker adaptation	tech	1
 FlexP	tool	1
 optical character recognition	tech	1
@@ -1357,7 +1357,7 @@ HDAG Kernel	tech	2
 randomized sentence-plan-generator ( SPG )	tech	1
 Statistical approach	tech	1
 morpheme sequence	other	1
-word sense disambiguation performance	measure(ment)	1
+word sense disambiguation performance	measure	1
 word-based models	model	1
 directed graphs	other	1
 knowledge level	other	1
@@ -1395,7 +1395,7 @@ Tree Adjoining Grammars	other	1
 deterministic finite automaton	tech	1
 gold standard	lr	1
 search space	other	1
-human annotation performance	measure(ment)	1
+human annotation performance	measure	1
 novice users	other	1
 computational complexity	other	4
 domain-independent lexica	lr	1
@@ -1405,7 +1405,7 @@ syntax-based statistical machine translation system	tech	1
 sublanguage	other	1
 ACE corpora	lr-prod	1
 error correction	tech	2
-retrieval time	measure(ment)	1
+retrieval time	measure	1
 output	other	3
 target word selection	tech	1
 PERSON NE	other	1
@@ -1419,7 +1419,7 @@ alternative markers	other	1
 HBG	tech	2
 Japanese patent claim sentences	other	1
 concurrent , object-oriented natural language parsing	tech	1
-evaluation method	measure(ment)	1
+evaluation method	measure	1
 text processing software	tech	1
 phrase translations	other	3
 parsing complexity	other	1
@@ -1427,7 +1427,7 @@ part-of-speech-based criterion	other	1
 Paul	tool	1
 root	other	1
 inference types	other	4
-machine translation tests	measure(ment)	1
+machine translation tests	measure	1
 robust analysis	other	1
 semantics	other	4
 English-Japanese MT system	tech	1
@@ -1450,14 +1450,14 @@ patterns	other	1
 language acquisition	tech	1
 control structure	other	1
 path values	other	1
-retrieval performance	measure(ment)	1
+retrieval performance	measure	1
 answers	other	2
-word error rate	measure(ment)	1
+word error rate	measure	1
 stemming model	model	1
 semantic set	other	1
 semantic verb classes	other	1
 word-sense disambiguation systems	tech	1
-discourse understanding accuracy	measure(ment)	1
+discourse understanding accuracy	measure	1
 Chart parsing	tech	1
 sentence condensation	other	1
 Korean	other	1
