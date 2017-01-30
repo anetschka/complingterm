@@ -47,7 +47,7 @@ class ClassifierExample:
     def b_len_and_caps(self):
         D = {}
         D["b_len"] = len(self.term)
-        D["b_caps"] = float(len([x for x in self.orig_string.replace(" ","") if x.isupper()])) / len(self.orig_string)
+        #D["b_caps"] = float(len([x for x in self.orig_string.replace(" ","") if x.isupper()])) / len(self.orig_string)
 
         return D
 
