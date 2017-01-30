@@ -167,7 +167,8 @@ def read_embeddings(infile):
 
 def main():
     parser = argparse.ArgumentParser(description="""Export AMT""")
-    parser.add_argument('--input', default="../data/classes_for_training_23nov.tsv")
+    #parser.add_argument('--input', default="../data/classes_for_training_23nov.tsv")
+    parser.add_argument('--input', default="../data/classes_for_training_coarse.tsv")
     parser.add_argument('--brown', default="../data/paths_brown1000_acl.tsv")
     parser.add_argument('--embeddings', default="../data/embedmodel.txt")
 

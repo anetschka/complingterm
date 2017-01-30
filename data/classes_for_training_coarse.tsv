@@ -1,0 +1,1490 @@
+dags	yellow
+data structure	yellow
+hub	yellow
+hubs	yellow
+parse record	yellow
+path of arcs	yellow
+suffix array-based data structure	yellow
+word-trie	yellow
+actor paradigm	green
+Chomsky's minimalist program	green
+denotational semantics	green
+frame semantics paradigm	green
+generative phonological approach	green
+grammatical formalisms	green
+inferential theory for natural language presuppositions	green
+linguistic theory	green
+Montague semantics	green
+morphology	green
+one sense per collocation observation	green
+operational semantics	green
+phrasal and single word lexical paraphrases	green
+predicate-argument structures	green
+rhetorical functions	green
+semantics	green
+syntactic paraphrases	green
+test-score semantics	green
+abstracts	green
+alternative markers	green
+anaphora	green
+Arabic	green
+Arabic-English	green
+Arabic's rich morphology	green
+arguments	green
+Basque	green
+char	green
+character	green
+Chinese-English texts	green
+chunks	green
+clauses	green
+cohesive text	green
+commas	green
+compound noun	green
+compound nouns	green
+concept	green
+concepts	green
+conjunction	green
+constituent	green
+constituents	green
+context	green
+contexts	green
+coordinate conjunction	green
+coordinate conjunctions	green
+cue phrases	green
+Czech	green
+demonstrative expressions	green
+dependency structure	green
+determiners	green
+Determiners	green
+discourse phenomena	green
+discourse structure	green
+discourses	green
+document	green
+document descriptors ( keywords )	green
+domain	green
+domains	green
+English	green
+English alphabets	green
+English phrases	green
+English sentences	green
+English word	green
+English words	green
+event terms	green
+expert human translations	green
+expressions	green
+French sentence	green
+function words	green
+genre	green
+highly inflected languages	green
+highly inflective languages	green
+homophone	green
+honorifics	green
+Honorifics	green
+Japanese	green
+Japanese bunsetsu	green
+Japanese kanji-kana characters	green
+Japanese patent claim sentences	green
+Japanese texts	green
+kanji-kana characters	green
+keywords	green
+Korean	green
+language	green
+language families	green
+language pairs	green
+languages	green
+lexical-syntactic forms	green
+linguistic concepts	green
+linguistic objects	green
+linguistic structure	green
+machine translations	green
+meaning	green
+meaning structure	green
+morpheme	green
+morphemes	green
+named entities	green
+natural language	green
+natural language texts	green
+NE	green
+NE types	green
+non-contiguous phrases	green
+noun group	green
+noun phrases	green
+nouns	green
+original document	green
+overt case markers	green
+paragraph	green
+parse trees	green
+part-of-speech tag sequences	green
+PERSON NE	green
+personal names	green
+phrase	green
+phrase translations	green
+phrases	green
+polysemic verbs	green
+polysemous word	green
+polysemous words	green
+predicate	green
+predicate argument structures	green
+pronoun	green
+pronouns	green
+questions	green
+reference word string	green
+referents	green
+referring expressions	green
+Referring Expressions	green
+Russian	green
+segments	green
+semantic categories	green
+semantic roles	green
+semantic verb classes	green
+sense	green
+sentence	green
+sentences	green
+Slovak	green
+Source and Target languages	green
+source dependency parse	green
+source language	green
+source language sentences	green
+source texts	green
+source-language	green
+Spanish	green
+spatial attributes	green
+spoken language system domains	green
+stems	green
+sublanguage	green
+subpredicates	green
+suffix	green
+syllables	green
+syntactic categories	green
+syntactic structure	green
+syntax	green
+tag contexts	green
+target domain	green
+target language	green
+target texts	green
+text	green
+text collections	green
+tokens	green
+topic	green
+translation candidates	green
+trees	green
+units of translation	green
+unknown words	green
+user utterance	green
+user utterances	green
+verb	green
+verb final language	green
+verb group	green
+verbs	green
+WH-questions	green
+word	green
+word forms	green
+word fragments	green
+word n-grams	green
+word string	green
+word strings	green
+word tokens	green
+words	green
+word-senses	green
+zero pronouns	green
+predicates	green
+Slavonic languages	green
+affix lists	green
+annotated data	green
+bilingual corpus	green
+bilingual or multi-lingual texts	green
+bilingual parallel corpora	green
+bilingual parallel corpus	green
+bilingual resource	green
+bilingual texts	green
+broad coverage lexicon	green
+BU recognition system	green
+comparable , non-parallel corpora	green
+computational lexicon	green
+corpora	green
+corpus	green
+corpus data	green
+corpus of multiple English translations	green
+data	green
+dependency treelet translation pairs	green
+dialogue corpora	green
+dialogue data	green
+dictionary	green
+domain-independent lexica	green
+English-Chinese bitexts	green
+English-Chinese parallel corpora	green
+expert human translation	green
+German corpus	green
+gold standard	green
+grammar	green
+grammars	green
+human annotated text	green
+knowledgebases	green
+Korean newspaper articles	green
+Korean phonological knowledge base system	green
+lexical hierarchy	green
+lexicon	green
+lexicons	green
+linguistic databases	green
+machine readable dictionaries	green
+machine-readable dictionaries ( MRD's )	green
+manual word alignments	green
+manually sense-tagged data	green
+Monolingual , unannotated text	green
+monolingual parallel corpora	green
+move-tagged abstracts	green
+named entity annotations	green
+newspaper stories	green
+non-parallel corpus	green
+parallel corpora	green
+parallel corpus	green
+parallel data	green
+parallel text	green
+pharmaceutical news archive	green
+polarity-tagged corpus	green
+pre-tagged corpus	green
+seed sentences	green
+sense-tagged training data	green
+sentence-aligned parallel corpus	green
+SI corpus	green
+speech	green
+speech data	green
+spoken dialogue	green
+spoken language corpus	green
+spoken multiparty dialogue	green
+stop lists	green
+supervised training data	green
+Switchboard dialogues	green
+test corpus	green
+test set	green
+text corpus	green
+training corpus	green
+training data	green
+training material	green
+training resources	green
+training set	green
+translation examples	green
+translation lexicons	green
+tree adjoining grammar	green
+Treebank	green
+unrestricted texts	green
+unstemmed text	green
+vocabulary	green
+wide coverage English grammar	green
+word-aligned corpora	green
+word-based alignments	green
+ACE corpora	green
+Canadian Hansards	green
+COMPLEX	green
+CSR ( Connected Speech Recognition ) corpus	green
+CSR corpus	green
+CSR pilot corpus	green
+DARPA Resource Management corpus	green
+February '92 test sentences	green
+Grolier's Encyclopedia	green
+October '91 dry-run test set	green
+Penn Treebank WSJ	green
+Resource Management ( RM ) corpus	green
+Roget's Thesaurus	green
+SENSEVAL-2 nouns	green
+Wall Street Journal text corpus	green
+Wall Street Journal treebank	green
+approximation error	yellow
+arc	yellow
+clusters	yellow
+directed graphs	yellow
+disjunctions	yellow
+dominance graphs	yellow
+edge	yellow
+edges	yellow
+eigenvectors	yellow
+extensional equivalence	yellow
+feature sets	yellow
+formulas	yellow
+fuzzy quantifier	yellow
+graph	yellow
+graphs	yellow
+high dimensionality space	yellow
+in-degree	yellow
+logical expression	yellow
+logical well-formedness conditions	yellow
+mathematical formalism	yellow
+maximum likelihood criterion	yellow
+node	yellow
+node structures	yellow
+nodes	yellow
+non-terminal symbol	yellow
+out-degree	yellow
+path	yellow
+path values	yellow
+priors	yellow
+root	yellow
+search space	yellow
+separation margin	yellow
+spanning edges	yellow
+submanifold	yellow
+terminal and non-terminal edges	yellow
+transition graphs	yellow
+tree	yellow
+weighed sum	yellow
+weighted sum	yellow
+complexity	yellow
+cooccurrence statistics	yellow
+dialogue duration	yellow
+error reduction	yellow
+Markov probability	yellow
+model parameters	yellow
+similarity	yellow
+user-defined performance thresholds	yellow
+accuracy	yellow
+accuracy rate	yellow
+agreement	yellow
+alignment quality	yellow
+analysis cost	yellow
+associative similarity	yellow
+automatic evaluation measures	yellow
+average precision	yellow
+average precision metric	yellow
+average retrieval times	yellow
+baseline	yellow
+BLEU	yellow
+BLEU score	yellow
+BLEU scores	yellow
+character and word error rate	yellow
+classification accuracy	yellow
+component performance	yellow
+computational complexity	yellow
+confidence	yellow
+confidence measures	yellow
+costs	yellow
+discourse understanding accuracy	yellow
+error rate	yellow
+evaluation measure	yellow
+evaluation measures	yellow
+evaluation method	yellow
+evaluation metrics	yellow
+exact match accuracy	yellow
+exponential time	yellow
+F-measure	yellow
+human annotation performance	yellow
+machine translation tests	yellow
+measure	yellow
+MRR	yellow
+MT evaluation	yellow
+mutual information	yellow
+NIST	yellow
+NIST evaluation metric	yellow
+NIST score	yellow
+output quality	yellow
+paraphrase classification accuracy	yellow
+paraphrase probability	yellow
+parsing complexity	yellow
+PER	yellow
+performance	yellow
+polynomial time	yellow
+POURPRE	yellow
+precision	yellow
+predictive performance	yellow
+probabilities	yellow
+quality	yellow
+recall	yellow
+recognition accuracy	yellow
+retrieval accuracy	yellow
+retrieval performance	yellow
+retrieval time	yellow
+similarity measure	yellow
+similarity measures	yellow
+speech recognition word and sentence error rates	yellow
+standard evaluation metric	yellow
+taxonomic similarity	yellow
+transition probabilities	yellow
+translation accuracy	yellow
+translation probabilities	yellow
+translation quality	yellow
+translation speed and quality	yellow
+user satisfaction	yellow
+utterance classification performance	yellow
+vocabulary size	yellow
+word dependent substitution costs	yellow
+word error rate	yellow
+word or semantic error rate	yellow
+word sense disambiguation performance	yellow
+word-dependent substitution costs	yellow
+worst-case parsing time complexity	yellow
+WSD evaluation methodology	yellow
+bigram language model	yellow
+block unigram model	yellow
+candidate parses	yellow
+character bigrams	yellow
+Chinese word sense disambiguation model	yellow
+Chinese-to-English SMT model	yellow
+computation model	yellow
+computational model	yellow
+Conceptual Dependency Diagram ( CDD )	yellow
+conditional loglinear models	yellow
+continuous density hidden Markov models ( CDHMM )	yellow
+co-occurrence patterns	yellow
+dependency network representation	yellow
+dependency structures	yellow
+dependency trees	yellow
+dialogue patterns	yellow
+dictionary-based word vectors	yellow
+domain independent acoustic models	yellow
+English sentence structure	yellow
+error-correction rules	yellow
+event map	yellow
+features	yellow
+generative model	yellow
+generative probabilistic optical character recognition ( OCR ) model	yellow
+grammar model	yellow
+HBG model	yellow
+Heuristic Parsing Model ( HPM )	yellow
+Hidden Markov Model	yellow
+hierarchies	yellow
+hierarchy	yellow
+high-accuracy word-level alignment models	yellow
+IBM models	yellow
+IBM Models 1-2	yellow
+indices	yellow
+Japanese sentence structure	yellow
+language definition	yellow
+language learning model	yellow
+language model	yellow
+language models ( LMs )	yellow
+lexically distributed grammar	yellow
+linguistic pattern	yellow
+LM	yellow
+LMs	yellow
+local segment contiguity models	yellow
+local trees	yellow
+localized phrase-based prediction model	yellow
+logical model	yellow
+log-linear block bigram model	yellow
+LSA-based and the cooccurrence-based word vectors	yellow
+maximum-entropy model	yellow
+mixture trigram models	yellow
+model	yellow
+models	yellow
+n-gram models	yellow
+N-grams	yellow
+object-oriented grammar model	yellow
+parse	yellow
+parse tree	yellow
+parses	yellow
+parsing-based NE rules	yellow
+patterns	yellow
+phone n-gram model	yellow
+phrase-based models	yellow
+phrase-based translation model	yellow
+phrase-based translation models	yellow
+phrase-based unigram model	yellow
+polynomial time approximations	yellow
+probabilistic model	yellow
+probabilistic translation models	yellow
+ranking rules	yellow
+reference model	yellow
+rules	yellow
+semantic network	yellow
+semantic networks	yellow
+sentence plan	yellow
+sentence plans	yellow
+shallow linguistic features	yellow
+SMT models	yellow
+statistical translation model	yellow
+stemming model	yellow
+surface representation	yellow
+top human-ranked sentence plan	yellow
+tree-based models	yellow
+tree-based ordering model	yellow
+trigram language model	yellow
+trigram model	yellow
+trigram models	yellow
+user model	yellow
+User models	yellow
+user models	yellow
+word N-gram models	yellow
+word set based representation	yellow
+word vectors	yellow
+word-based models	yellow
+word-based trigram language model	yellow
+abstract moves	other
+actors	other
+addressee	other
+ambiguities	other
+ambiguity	other
+anaphora references	other
+anaphoric expressions	other
+annotation experiment	other
+answer candidates	other
+answers	other
+Arabic-English translation task	other
+arcs	other
+ASR output	other
+assessors	other
+ATIS ( Air Travel Information System ) domain	other
+attentional focus	other
+attentional state	other
+attribute sequences	other
+baseline results	other
+behavioral specification	other
+blocks	other
+candidates	other
+category transitions	other
+common ground	other
+communication	other
+computational problems	other
+computational theory	other
+consistency problem	other
+constraint	other
+contextual information	other
+conversational context	other
+conversational cues	other
+conversational speech	other
+cooperative responses	other
+coordination	other
+cyclic structures	other
+data objects	other
+database query applications	other
+Deictic reference	other
+dependency relations	other
+derivation	other
+derivation tree	other
+dialog	other
+dialogue	other
+dialogue act	other
+dialogue move	other
+dialogue state	other
+Dialogue strategies	other
+dimensionalized space	other
+disambiguation process	other
+discourse	other
+discourse segments	other
+discourse task	other
+discourse understanding process	other
+discourse-relevant purposes	other
+disposition	other
+documents	other
+domain dependence	other
+domain entities	other
+editing terms	other
+ellipses	other
+ellipsis	other
+empirical MT research	other
+entailment	other
+entities	other
+entity-oriented language definition	other
+entries	other
+error characters	other
+event type networks	other
+events	other
+expectations	other
+Explicitation	other
+explicitation	other
+extensional reference	other
+eye gaze	other
+failures of reference	other
+feedback	other
+fonts	other
+free text	other
+free word order	other
+generalized metaphor	other
+grammar coverage problems	other
+grammatical knowledge	other
+grammaticality	other
+grounding	other
+hard problems	other
+hastiness	other
+head nods	other
+homophone errors	other
+human annotators	other
+human cognition	other
+human communication needs	other
+human judges	other
+human judgment	other
+human language learners	other
+human language learning process	other
+human-machine interactions	other
+hypothesis	other
+IE paradigm	other
+ill-formed input	other
+implicit intention component	other
+individual users	other
+inferences	other
+inflection	other
+information need	other
+information redundancy	other
+information sources	other
+information workers	other
+input	other
+intelligibility	other
+intensional concepts	other
+intentional structure	other
+intentions	other
+interaction requirements	other
+interpretation	other
+interruptions	other
+islands	other
+isomorphic derivations	other
+Japanese homophone errors	other
+knowledge level	other
+language L	other
+language learning	other
+language learning experiment	other
+learning methodology	other
+legal text hierarchy	other
+lexical , syntactic , semantic , and structural information	other
+lexical and syntactic features	other
+lexical cross-relations	other
+lexical entries	other
+lexical features	other
+lexical gap	other
+lexical generalizations	other
+lexical rules	other
+lexical substitutions	other
+lexical-cohesion and conversational features	other
+lexicologists	other
+linguistic and non-linguistic knowledge	other
+linguistic expressiveness	other
+linguistic information	other
+linguistic segments	other
+listener	other
+long distance constraints	other
+machine translation output	other
+machine translation outputs	other
+machine translation task	other
+MADCOW ( Multi-site ATIS Data COllection Working group )	other
+m-component mixture	other
+meeting context	other
+memory	other
+meta-inference types	other
+miscommunication	other
+miscommunications	other
+morpheme sequence	other
+move	other
+MT output	other
+MUC-3 evaluation	other
+Multimedia answers	other
+native from non-native language essays	other
+natural language environment	other
+natural language generation community	other
+natural language input	other
+N-Best sentence hypotheses	other
+need	other
+negative feedback	other
+NLP tasks	other
+noisy output	other
+Non Verbal and Multimodal Communication	other
+non-constituent coordination	other
+non-literal aspects of communication	other
+nonverbal behaviors	other
+novice users	other
+NP- and non-NP-antecedents	other
+oral communication	other
+Oral communication	other
+organizational and discourse strategies	other
+output	other
+overlapping speech	other
+packed parse forests	other
+parallelism	other
+paraphrases	other
+parsing data	other
+parsing flexibilities	other
+part of speech information	other
+participants	other
+pattern	other
+perspective-taking	other
+polysemy	other
+Prolog form	other
+pronominalization	other
+proposition	other
+propositions	other
+purpose	other
+purposes	other
+quadratic time	other
+qualitative spatial constraints	other
+queries	other
+question , passage , and/or answer levels	other
+question answering session	other
+raw text	other
+real-valued features	other
+recognition tasks	other
+redundancy	other
+redundancy elimination problem	other
+reference	other
+reference failures	other
+reference problems	other
+reference sets	other
+references	other
+referential information	other
+relations	other
+request	other
+Requestors	other
+reranking task	other
+restoration	other
+saturation	other
+scalability	other
+scope ambiguity	other
+segment boundaries	other
+segment contiguity	other
+segment order	other
+semantic coherence	other
+semantic constraints	other
+semantic questions	other
+semantic set	other
+SENSEVAL-2 English lexical sample task	other
+Senseval-3 Chinese lexical sample task	other
+Sentence ambiguities	other
+sentence co-occurrences	other
+signals	other
+skill level	other
+skilled users	other
+SMT research community	other
+source text	other
+spatial concepts	other
+spatial descriptions	other
+speaker	other
+speakers	other
+speaker's gaze information	other
+speaker's intention	other
+speaker's utterance	other
+speech recognition hypotheses	other
+speech repairs	other
+spontaneous speech	other
+Stabler's formalization	other
+statistical information	other
+strength of potential antecedence	other
+strings	other
+structure	other
+structured data	other
+structured natural language data	other
+structures	other
+style	other
+subjective human judgments	other
+substitutions	other
+subtopic boundaries	other
+syntactic ambiguities	other
+syntactic and semantic expectations	other
+syntactic descriptions	other
+syntactic information	other
+syntactically motivated phrases	other
+syntax-based constraint	other
+system output	other
+system response	other
+system users	other
+target speaker	other
+task-oriented and goal-directed dialogs	other
+temporal adverbs	other
+temporal relations	other
+text-plan input	other
+textual representation	other
+theory	other
+top-down scope information	other
+training ( reference ) speaker	other
+training phase	other
+training speakers	other
+transcription errors	other
+transition	other
+translation equivalents	other
+translation output	other
+translation process	other
+translation relation	other
+translations	other
+Translations	other
+TREC 2003 and TREC 2004 QA tracks	other
+typicality	other
+ungrammatical input	other
+unknown word features	other
+user	other
+user modeling component	other
+users	other
+user's informational goals	other
+USR	other
+utterance	other
+utterance features	other
+utterances	other
+vagueness	other
+valency constraints	other
+verbal and nonverbal grounding acts	other
+verbal and nonverbal means	other
+verbal interaction	other
+verbal interactions	other
+word matchings	other
+word segmentation problem	other
+world knowledge	other
+abduction	blue
+abductive inference	blue
+adaptation	blue
+adaptive dynamic word formation	blue
+addressee identification	blue
+affix removal	blue
+agenda-based scheduling parser	blue
+alignment	blue
+alignment algorithm	blue
+alignment techniques	blue
+ambiguity handling	blue
+ambiguity packing	blue
+ambiguity packing and stochastic disambiguation techniques	blue
+analysis	blue
+anaphora resolution	blue
+annotating scheme	blue
+annotation	blue
+answer resolution algorithm	blue
+answering agents	blue
+APs	blue
+Arabic information retrieval	blue
+Arabic stemmer	blue
+Arabic word segmentation system	blue
+Arabic word segmenter	blue
+argumentation system	blue
+associative processors ( APs )	blue
+asynchronous message passing	blue
+ATN	blue
+ATNs	blue
+Augmented Case Marker System	blue
+Augmented Transition Network	blue
+automated evaluation techniques	blue
+automatic alignments	blue
+automatic evaluation	blue
+automatic extraction	blue
+automatic parameter optimization	blue
+automatic parse-based evaluation	blue
+Automatic Speech Recognition technology	blue
+automaton	blue
+bag-of-words and segment order-sensitive string comparison methods	blue
+bag-of-words methods	blue
+balance matching operation	blue
+baseline methods	blue
+baseline sentence planners	blue
+baseline system	blue
+baselines	blue
+basic mapping	blue
+Bayesian learning	blue
+beam-search decoder	blue
+Begin/After tagging	blue
+benchmark system	blue
+BIA	blue
+bidirectional grammar generation system	blue
+binary relational calculus notation	blue
+block reordering	blue
+block selection criteria	blue
+Boolean conditions	blue
+boosting approach	blue
+boosting method	blue
+bootstrapping approach	blue
+bootstrapping procedure	blue
+bottom-up pattern-matching parser	blue
+case-based MT ( CBMT )	blue
+case-based reasoning	blue
+categorial grammar	blue
+Category Cooccurrence Restrictions ( CCRs )	blue
+CCR formalism	blue
+CCRs	blue
+certainty conditions	blue
+CFG filter	blue
+CFG filtering techniques	blue
+chart	blue
+chart Parsing	blue
+Chart parsing	blue
+chart-based algorithms	blue
+chart-based phrase structure parsing	blue
+Chart-like parsing	blue
+Chinese Natural Language Processing	blue
+class-dependent interpolation	blue
+classification method	blue
+classifiers	blue
+cluster number estimation	blue
+clustering	blue
+clustering algorithm	blue
+clustering methods	blue
+coherence rules	blue
+cohesion constraint	blue
+Combination methods	blue
+combination methods	blue
+comma checker	blue
+commonsense reasoning	blue
+computer aided second language learning	blue
+computer system	blue
+computer text generation system	blue
+concept-based seeds	blue
+concurrency	blue
+concurrency of computation	blue
+concurrent , object-oriented natural language parsing	blue
+concurrent computation model	blue
+constraint-based parser/generator	blue
+content determination	blue
+content-independent formalism	blue
+context free languages	blue
+context-dependent phonetic modelling	blue
+context-free grammars	blue
+continuous speech recognition	blue
+control structure	blue
+Cooperative Model	blue
+core modules	blue
+corrective training	blue
+CSR	blue
+Czech-English statistical machine translation system	blue
+database query applications	blue
+database query paraphrase	blue
+databases	blue
+decision list	blue
+decision tree	blue
+decision tree based approach	blue
+decision tree building	blue
+decision tree learning	blue
+decoder	blue
+decoding	blue
+decoding algorithm	blue
+default reasoning	blue
+defeasibility	blue
+defeasible reasoning	blue
+defeat rules	blue
+dependency grammars	blue
+dependency parser	blue
+dependency pointers	blue
+descriptors	blue
+deterministic finite automaton	blue
+diagnostic tool	blue
+dialog schemata	blue
+dialog systems	blue
+dialogue acquisition and tracking algorithm	blue
+dialogue system	blue
+dialogue systems	blue
+dialogue translation system	blue
+digital learning	blue
+disambiguation algorithms	blue
+disambiguation tool	blue
+discourse constraint	blue
+Discourse processing	blue
+discourse processing algorithms	blue
+discourse segmentation	blue
+disjunctive feature structures	blue
+disjunctive normal form	blue
+distributed message-passing infrastructure	blue
+document classification	blue
+document oriented preference sets( DoPS )	blue
+document processing	blue
+document representation	blue
+document summarization	blue
+document understanding	blue
+document understanding technology	blue
+DoPS system	blue
+dynamic combiner	blue
+Dynamic Grammars	blue
+Dynamic Hierarchical Phrasal Lexicon ( DHPL )	blue
+dynamic language model combination	blue
+EBMT	blue
+EBMT system	blue
+ECA	blue
+edit operation	blue
+embodied conversational agents	blue
+English coordinate structure analysis model	blue
+English stemmer	blue
+English understanding system	blue
+English-Japanese machine translation	blue
+English-Japanese MT system	blue
+ensemble methods	blue
+entity-oriented parser	blue
+ER	blue
+Error analysis	blue
+Error correction	blue
+error correction	blue
+error correction methodology	blue
+evaluation methodology	blue
+evaluation scheme	blue
+evaluation techniques	blue
+event networks	blue
+example-retrieval ( ER )	blue
+experimental evaluation	blue
+expert systems	blue
+exponential time lower-bound	blue
+extraction and conversion rules	blue
+extrapolation	blue
+extraposition grammars	blue
+feature selection methods	blue
+feature structure-directed generation	blue
+feature structures	blue
+Finite State Model ( FSM )	blue
+finite-state models	blue
+formalisms	blue
+forward-backward algorithm	blue
+fragmentary recognition	blue
+free indexation	blue
+free indexation algorithm	blue
+FSM	blue
+fully-connected first-order statistical class grammar	blue
+fuzzy syllogism	blue
+generalized LR parsing	blue
+generalized metaphor mappings	blue
+general-purpose NLP components	blue
+Generation	blue
+generation	blue
+generation system	blue
+generator	blue
+grammar checker	blue
+grammar formalisms	blue
+Graph unification	blue
+graphical model	blue
+hand-crafted rules	blue
+hand-crafted system	blue
+hand-crafted template-based generation component	blue
+hand-crafted template-based or rule-based approaches	blue
+HBG	blue
+HDAG Kernel	blue
+HDAGs	blue
+Head Grammars	blue
+head-orientation	blue
+heuristic learning	blue
+heuristic rules	blue
+heuristics	blue
+hidden Markov models ( HMM )	blue
+Hierarchical Directed Acyclic Graph ( HDAG ) Kernel	blue
+histogram	blue
+Horn logic program	blue
+HPSG	blue
+human interaction with data sources	blue
+human language technology	blue
+human plausible reasoning	blue
+human transcription	blue
+human-computer interaction	blue
+Human-Machine Communication	blue
+IBM statistical MT system	blue
+identification of paraphrases	blue
+IE-enhanced text browsers	blue
+image and text understanding	blue
+image understanding	blue
+implicit reference resolution	blue
+incremental grammar development	blue
+index	blue
+indexing	blue
+indexings	blue
+inductive decision tree learning	blue
+inference	blue
+inference method	blue
+inference types	blue
+information extraction	blue
+information extraction ( IE ) systems	blue
+information retrieval task	blue
+information retrieval techniques	blue
+inheritance	blue
+inheritance mechanisms	blue
+intelligent interactive systems	blue
+intelligent mobile agents	blue
+Interactive Machine Translation	blue
+interactive question-answering ( Q/A ) system	blue
+interface	blue
+interfaces	blue
+interpolation methods	blue
+interpretation and generation of natural language	blue
+IR	blue
+Isomorphic Grammars	blue
+Japanese revision support systems	blue
+Japanese-English translation	blue
+KANA-KANJI conversion	blue
+kernel function	blue
+kernel functions	blue
+key prediction	blue
+knowledge-based automated acquisition of grammars	blue
+knowledge-based generation systems	blue
+knowledge-based information retrieval	blue
+Korean Phonology Structure Grammar ( KPSG )	blue
+KPSG	blue
+language acquisition	blue
+language identification	blue
+language modeling	blue
+language neutral meaning representation	blue
+language processing modules	blue
+language processing systems	blue
+language understanding	blue
+language understanding and generation modules	blue
+large database	blue
+large vocabulary continuous speech recognition	blue
+large-scale grammars	blue
+learner	blue
+learning	blue
+learning algorithm	blue
+left corner parsing algorithm	blue
+length-based or translation-based criterion	blue
+lexical cohesion-based approach	blue
+lexical weighting	blue
+Lexical-Functional Grammars ( LFG )	blue
+LFG	blue
+limited domain semantics	blue
+linguistic annotation	blue
+linguistic introspection	blue
+linguistic parser/generator	blue
+linguistic representation	blue
+linguistically sophisticated representations	blue
+Link detection	blue
+Listen-Communicate-Show ( LCS )	blue
+local phrase re-ordering	blue
+logic	blue
+logical definition	blue
+logical form language	blue
+logical formulas	blue
+logic-based grammar formalism	blue
+log-linear ( maximum-entropy ) models	blue
+log-linear and linear interpolation	blue
+LSA-based , cooccurrence-based and dictionary-based methods	blue
+LTAG	blue
+machine learning	blue
+machine learning approach	blue
+machine learning techniques	blue
+Machine Translation	blue
+machine translation	blue
+machine translation ( MT ) systems	blue
+Machine Translation (MT) systems	blue
+machine translation pipeline	blue
+machine translation systems	blue
+main parser	blue
+management of uncertainty	blue
+manual evaluation	blue
+manual transcription	blue
+MAP estimation approach	blue
+maximum a posteriori estimation	blue
+maximum entropy classifier	blue
+maximum entropy word alignment algorithm	blue
+maximum likelihood method	blue
+message passing protocols	blue
+metaphor interpretation	blue
+minimal DFA	blue
+Minimalist grammars	blue
+MLE reestimation algorithms	blue
+mobile , intelligent agent	blue
+monolingual UCG	blue
+MT	blue
+MT evaluation techniques	blue
+MT system	blue
+MT systems	blue
+MT-based paraphrasing technique	blue
+m-th order Markov chain model	blue
+multi engine machine translation system	blue
+multi-document summarization	blue
+multi-level answer resolution algorithm	blue
+multimedia articulation of answers	blue
+Named Entity ( NE ) tagging	blue
+natural language applications	blue
+natural language generation system	blue
+natural language generator	blue
+natural language interface	blue
+natural language interfaces	blue
+natural language processing	blue
+Natural Language Processing	blue
+Natural Language Processing ( NLP ) systems	blue
+natural language question answering system	blue
+natural language search engines	blue
+natural language system	blue
+natural language understanding	blue
+n-best speech/language integration architecture	blue
+NE system	blue
+neural network	blue
+new event detection	blue
+NLP	blue
+NLP techniques	blue
+Node-based inference	blue
+node-based inference	blue
+Node-based inference rules	blue
+noisy channel framework	blue
+non-deterministic parsing choices	blue
+non-English ( Arabic ) stemmer	blue
+non-monotonic reasoning	blue
+numerical constraints	blue
+OCR system	blue
+ontology	blue
+open-domain question answering capability	blue
+optical character recognition	blue
+oracle	blue
+PageRank algorithm	blue
+parameter smoothing	blue
+paraphrase classification	blue
+paraphrase extraction and ranking methods	blue
+paraphrasing	blue
+parser	blue
+parser evaluation methods	blue
+parsing	blue
+Parsing	blue
+parsing algorithms	blue
+parsing strategies	blue
+parsing technique	blue
+parsing-as-deduction	blue
+part of speech tagging	blue
+partial instantiation	blue
+part-of-speech tagger	blue
+part-of-speech-based criterion	blue
+Path-based inference	blue
+Path-based inference rules	blue
+path-based inference rules	blue
+P-CFG	blue
+phone-string classifier	blue
+phrasal SMT	blue
+phrasal translation	blue
+phrase boundary heuristics	blue
+phrase-based statistical machine translation	blue
+phrase-based statistical machine translation method	blue
+pilot system	blue
+planning algorithm	blue
+planning-based architecture	blue
+polarization	blue
+polynomial time decoding algorithm	blue
+polynomial time solution	blue
+post-processing	blue
+pragmatics processing	blue
+predicate calculus notation	blue
+predictive questioning	blue
+principle-and-parameters language framework	blue
+probabilistic context-free grammars	blue
+probabilistic LR parser	blue
+probabilistic parser	blue
+probabilistic spectral mapping	blue
+probabilistic synchronous dependency insertion grammar	blue
+processing	blue
+programming language	blue
+Prolog	blue
+pronominal anaphora resolution module	blue
+pronoun resolution	blue
+prototype system	blue
+Q/A	blue
+qualitative user evaluation	blue
+query optimisation	blue
+Question Answering ( QA ) systems	blue
+question classification	blue
+randomized sentence-plan-generator ( SPG )	blue
+range concatenation grammar [RCG] formalism	blue
+range concatenation languages [RCL]	blue
+ranking	blue
+rankings	blue
+RCG	blue
+RCGs	blue
+RCL parser	blue
+RCL parsers	blue
+real-time spoken language translation	blue
+recognition	blue
+recognition network	blue
+recognition task	blue
+reestimation formulas	blue
+relational database	blue
+repository	blue
+resource sensitive logic	blue
+resource-frugal approach	blue
+retrieval	blue
+rewriting systems	blue
+robust analysis	blue
+robust parsing capability	blue
+rule-based and example based machine translation modules	blue
+rule-based sentence planners	blue
+rule-based systems	blue
+rule-based translation systems	blue
+rule-reduction algorithm	blue
+scenario templates	blue
+search engine	blue
+segment order-sensitive methods	blue
+segmental k-means algorithm	blue
+segmentation	blue
+semantic annotation	blue
+semantic frame	blue
+semantic grammar	blue
+semantic interpretation	blue
+Semantic Role System	blue
+semantic-head-driven generation	blue
+sentence alignment tasks	blue
+sentence analysis	blue
+sentence condensation	blue
+sentence condensation systems	blue
+sentence planner	blue
+Sentence planning	blue
+sentence scoping	blue
+sentence-plan-ranker ( SPR )	blue
+SI recognition	blue
+Similarity-driven Transfer System ( SimTran )	blue
+Simulated annealing approach	blue
+SMT	blue
+SMT algorithms	blue
+SMT system	blue
+software infrastructure	blue
+source interval projections	blue
+speaker adaptation	blue
+speaker adaptation ( SA )	blue
+speaker group modeling	blue
+speaker-independent ( SI ) training	blue
+spectral clustering based approach	blue
+speech processing	blue
+speech recognition	blue
+speech recognition hypotheses ( SRH )	blue
+speech understanding	blue
+speech-search algorithm	blue
+spelling-checkers	blue
+Spelling-checkers	blue
+spoken dialogue system	blue
+spoken dialogue systems	blue
+spoken language system	blue
+Spoken language translation	blue
+spoken language translation	blue
+spoken language understanding	blue
+spoken language understanding system	blue
+SPR	blue
+SRHs	blue
+Statistical approach	blue
+statistical approaches	blue
+Statistical Learning Model ( SLM )	blue
+statistical machine translation	blue
+Statistical machine translation ( SMT )	blue
+statistical machine translation ( SMT )	blue
+Statistical Machine Translation ( SMT )	blue
+statistical machine translation (SMT)	blue
+statistical machine translation system	blue
+statistical machine translation tool kit	blue
+statistical models	blue
+statistical MT architectures	blue
+statistical MT systems	blue
+statistical POS tagger	blue
+statistical systems	blue
+statistically fitted rule-based model	blue
+stemmer	blue
+stochastic output selection	blue
+stochastic processes	blue
+stochastic tree-to-tree transducer	blue
+story link detection	blue
+structural disambiguation	blue
+structure-sharing	blue
+successive learners	blue
+superordinate substitution	blue
+supervised and unsupervised methods	blue
+supervised learning	blue
+Syllogistic reasoning with dispositions	blue
+Synchronous dependency insertion grammars	blue
+synchronous grammars	blue
+synchronous TAGs	blue
+syntactic ambiguity resolution	blue
+syntactic analysis	blue
+syntactic and pragmatic analysis	blue
+syntactic disambiguation	blue
+Syntactic Role System	blue
+syntax formalisms	blue
+syntax-based decoder	blue
+Syntax-based statistical machine translation ( MT )	blue
+syntax-based statistical machine translation system	blue
+system combination	blue
+TAG	blue
+tagger	blue
+tagging strategies	blue
+TAGs	blue
+target word selection	blue
+Task-based evaluation	blue
+task-oriented dialogs	blue
+TDMT	blue
+TDMT ( Transfer-Driven Machine Translation )	blue
+temporal anaphora resolution	blue
+term weighting statistical assignment paradigm	blue
+terminal substring parsing	blue
+text browser	blue
+text mining	blue
+text processing software	blue
+text retrieval application	blue
+text understanding	blue
+text-understanding systems	blue
+Thai key prediction	blue
+Thai-English language identification	blue
+title-driven name recognition	blue
+token classification task	blue
+top-down derivation	blue
+Topic Detection and Tracking tasks	blue
+trainable sentence planner	blue
+training	blue
+training algorithm	blue
+training method	blue
+transfer mappings	blue
+transfer phase	blue
+transfer system	blue
+translation	blue
+translation memory system	blue
+translation system	blue
+translation systems	blue
+Tree Adjoining Grammars	blue
+tree-adjoining grammars ( TAG )	blue
+tree-to-tree translation	blue
+two-step clustering process	blue
+typed feature structures	blue
+type-unification	blue
+typing-algorithm	blue
+underspecified chart representations	blue
+underspecified semantic representation ( USR )	blue
+unification	blue
+Unification	blue
+unification algorithms	blue
+Unification Categorial Grammar ( UCG )	blue
+unification framework	blue
+unification-based grammar formalism	blue
+Unification-based grammar formalisms	blue
+unification-based grammar parsing	blue
+unsupervised algorithm	blue
+unsupervised component	blue
+unsupervised learning algorithm	blue
+unsupervised learning approach	blue
+unsupervised structure finding methods	blue
+unsupervised technique	blue
+unsupervised training	blue
+unsupervised word alignment component	blue
+unsupervised WSD	blue
+unsupervised WSD systems	blue
+user modeling	blue
+user modeling systems	blue
+USRs	blue
+utterance classification	blue
+vector space model	blue
+visualization method	blue
+voice interactive system	blue
+voting- and arbiter-based combination strategies	blue
+web	blue
+Web	blue
+Web-based computer-assisted academic writing	blue
+word alignment	blue
+word classification	blue
+word disambiguation	blue
+Word Identification	blue
+word order generation	blue
+word segmentation	blue
+word sense disambigation models	blue
+word sense disambiguation	blue
+word sense disambiguation ( WSD )	blue
+word sense disambiguation ( WSD ) models	blue
+word set representation	blue
+word-sense disambiguation algorithm	blue
+word-sense disambiguation systems	blue
+word-trigram recognition	blue
+WSD models	blue
+WSD programs	blue
+WSI	blue
+WSI algorithm	blue
+APT	blue
+CARE	blue
+CCLINC Korean-to-English translation system	blue
+Chat-80	blue
+CMU's SMT system	blue
+FERRET	blue
+FlexP	blue
+FROFF	blue
+IDUS ( Intelligent Document Understanding System )	blue
+InfoMagnets	blue
+JAVELIN	blue
+JAVELIN system	blue
+LCS-Marine	blue
+LHIP	blue
+linguistic tools	blue
+LOGON MT demonstrator	blue
+Lucy	blue
+MIT ATIS ( Air Travel Information Service ) system	blue
+MIT ATIS system	blue
+NOMAD	blue
+ONTOSCORE	blue
+Paramax spoken language understanding system	blue
+Paul	blue
+RAREAS	blue
+RINA	blue
+SPoT	blue
+SPRINT	blue
+STTK	blue
+SUMMIT recognizer	blue
+SYSCONJ system	blue
+TACITUS	blue
+TAP-XL Automated Analyst's Assistant	blue
+TGE	blue
+training examples	blue
