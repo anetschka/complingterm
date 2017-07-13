@@ -1,512 +1,512 @@
-dags	yellow
-data structure	yellow
-hub	yellow
-hubs	yellow
-parse record	yellow
-path of arcs	yellow
-suffix array-based data structure	yellow
-word-trie	yellow
-actor paradigm	green
-Chomsky's minimalist program	green
-denotational semantics	green
-frame semantics paradigm	green
-generative phonological approach	green
-grammatical formalisms	green
-inferential theory for natural language presuppositions	green
-linguistic theory	green
-Montague semantics	green
-morphology	green
-one sense per collocation observation	green
-operational semantics	green
-phrasal and single word lexical paraphrases	green
-predicate-argument structures	green
-rhetorical functions	green
-semantics	green
-syntactic paraphrases	green
-test-score semantics	green
-abstracts	green
-alternative markers	green
-anaphora	green
-Arabic	green
-Arabic-English	green
-Arabic's rich morphology	green
-arguments	green
-Basque	green
-char	green
-character	green
-Chinese-English texts	green
-chunks	green
-clauses	green
-cohesive text	green
-commas	green
-compound noun	green
-compound nouns	green
-concept	green
-concepts	green
-conjunction	green
-constituent	green
-constituents	green
-context	green
-contexts	green
-coordinate conjunction	green
-coordinate conjunctions	green
-cue phrases	green
-Czech	green
-demonstrative expressions	green
-dependency structure	green
-determiners	green
-Determiners	green
-discourse phenomena	green
-discourse structure	green
-discourses	green
-document	green
-document descriptors ( keywords )	green
-domain	green
-domains	green
-English	green
-English alphabets	green
-English phrases	green
-English sentences	green
-English word	green
-English words	green
-event terms	green
-expert human translations	green
-expressions	green
-French sentence	green
-function words	green
-genre	green
-highly inflected languages	green
-highly inflective languages	green
-homophone	green
-honorifics	green
-Honorifics	green
-Japanese	green
-Japanese bunsetsu	green
-Japanese kanji-kana characters	green
-Japanese patent claim sentences	green
-Japanese texts	green
-kanji-kana characters	green
-keywords	green
-Korean	green
-language	green
-language families	green
-language pairs	green
-languages	green
-lexical-syntactic forms	green
-linguistic concepts	green
-linguistic objects	green
-linguistic structure	green
-machine translations	green
-meaning	green
-meaning structure	green
-morpheme	green
-morphemes	green
-named entities	green
-natural language	green
-natural language texts	green
-NE	green
-NE types	green
-non-contiguous phrases	green
-noun group	green
-noun phrases	green
-nouns	green
-original document	green
-overt case markers	green
-paragraph	green
-parse trees	green
-part-of-speech tag sequences	green
-PERSON NE	green
-personal names	green
-phrase	green
-phrase translations	green
-phrases	green
-polysemic verbs	green
-polysemous word	green
-polysemous words	green
-predicate	green
-predicate argument structures	green
-pronoun	green
-pronouns	green
-questions	green
-reference word string	green
-referents	green
-referring expressions	green
-Referring Expressions	green
-Russian	green
-segments	green
-semantic categories	green
-semantic roles	green
-semantic verb classes	green
-sense	green
-sentence	green
-sentences	green
-Slovak	green
-Source and Target languages	green
-source dependency parse	green
-source language	green
-source language sentences	green
-source texts	green
-source-language	green
-Spanish	green
-spatial attributes	green
-spoken language system domains	green
-stems	green
-sublanguage	green
-subpredicates	green
-suffix	green
-syllables	green
-syntactic categories	green
-syntactic structure	green
-syntax	green
-tag contexts	green
-target domain	green
-target language	green
-target texts	green
-text	green
-text collections	green
-tokens	green
-topic	green
-translation candidates	green
-trees	green
-units of translation	green
-unknown words	green
-user utterance	green
-user utterances	green
-verb	green
-verb final language	green
-verb group	green
-verbs	green
-WH-questions	green
-word	green
-word forms	green
-word fragments	green
-word n-grams	green
-word string	green
-word strings	green
-word tokens	green
-words	green
-word-senses	green
-zero pronouns	green
-predicates	green
-Slavonic languages	green
-affix lists	green
-annotated data	green
-bilingual corpus	green
-bilingual or multi-lingual texts	green
-bilingual parallel corpora	green
-bilingual parallel corpus	green
-bilingual resource	green
-bilingual texts	green
-broad coverage lexicon	green
-BU recognition system	green
-comparable , non-parallel corpora	green
-computational lexicon	green
-corpora	green
-corpus	green
-corpus data	green
-corpus of multiple English translations	green
-data	green
-dependency treelet translation pairs	green
-dialogue corpora	green
-dialogue data	green
-dictionary	green
-domain-independent lexica	green
-English-Chinese bitexts	green
-English-Chinese parallel corpora	green
-expert human translation	green
-German corpus	green
-gold standard	green
-grammar	green
-grammars	green
-human annotated text	green
-knowledgebases	green
-Korean newspaper articles	green
-Korean phonological knowledge base system	green
-lexical hierarchy	green
-lexicon	green
-lexicons	green
-linguistic databases	green
-machine readable dictionaries	green
-machine-readable dictionaries ( MRD's )	green
-manual word alignments	green
-manually sense-tagged data	green
-Monolingual , unannotated text	green
-monolingual parallel corpora	green
-move-tagged abstracts	green
-named entity annotations	green
-newspaper stories	green
-non-parallel corpus	green
-parallel corpora	green
-parallel corpus	green
-parallel data	green
-parallel text	green
-pharmaceutical news archive	green
-polarity-tagged corpus	green
-pre-tagged corpus	green
-seed sentences	green
-sense-tagged training data	green
-sentence-aligned parallel corpus	green
-SI corpus	green
-speech	green
-speech data	green
-spoken dialogue	green
-spoken language corpus	green
-spoken multiparty dialogue	green
-stop lists	green
-supervised training data	green
-Switchboard dialogues	green
-test corpus	green
-test set	green
-text corpus	green
-training corpus	green
-training data	green
-training material	green
-training resources	green
-training set	green
-translation examples	green
-translation lexicons	green
-tree adjoining grammar	green
-Treebank	green
-unrestricted texts	green
-unstemmed text	green
-vocabulary	green
-wide coverage English grammar	green
-word-aligned corpora	green
-word-based alignments	green
-ACE corpora	green
-Canadian Hansards	green
-COMPLEX	green
-CSR ( Connected Speech Recognition ) corpus	green
-CSR corpus	green
-CSR pilot corpus	green
-DARPA Resource Management corpus	green
-February '92 test sentences	green
-Grolier's Encyclopedia	green
-October '91 dry-run test set	green
-Penn Treebank WSJ	green
-Resource Management ( RM ) corpus	green
-Roget's Thesaurus	green
-SENSEVAL-2 nouns	green
-Wall Street Journal text corpus	green
-Wall Street Journal treebank	green
-approximation error	yellow
-arc	yellow
-clusters	yellow
-directed graphs	yellow
-disjunctions	yellow
-dominance graphs	yellow
-edge	yellow
-edges	yellow
-eigenvectors	yellow
-extensional equivalence	yellow
-feature sets	yellow
-formulas	yellow
-fuzzy quantifier	yellow
-graph	yellow
-graphs	yellow
-high dimensionality space	yellow
-in-degree	yellow
-logical expression	yellow
-logical well-formedness conditions	yellow
-mathematical formalism	yellow
-maximum likelihood criterion	yellow
-node	yellow
-node structures	yellow
-nodes	yellow
-non-terminal symbol	yellow
-out-degree	yellow
-path	yellow
-path values	yellow
-priors	yellow
-root	yellow
-search space	yellow
-separation margin	yellow
-spanning edges	yellow
-submanifold	yellow
-terminal and non-terminal edges	yellow
-transition graphs	yellow
-tree	yellow
-weighed sum	yellow
-weighted sum	yellow
-complexity	yellow
-cooccurrence statistics	yellow
-dialogue duration	yellow
-error reduction	yellow
-Markov probability	yellow
-model parameters	yellow
-similarity	yellow
-user-defined performance thresholds	yellow
-accuracy	yellow
-accuracy rate	yellow
-agreement	yellow
-alignment quality	yellow
-analysis cost	yellow
-associative similarity	yellow
-automatic evaluation measures	yellow
-average precision	yellow
-average precision metric	yellow
-average retrieval times	yellow
-baseline	yellow
-BLEU	yellow
-BLEU score	yellow
-BLEU scores	yellow
-character and word error rate	yellow
-classification accuracy	yellow
-component performance	yellow
-computational complexity	yellow
-confidence	yellow
-confidence measures	yellow
-costs	yellow
-discourse understanding accuracy	yellow
-error rate	yellow
-evaluation measure	yellow
-evaluation measures	yellow
-evaluation method	yellow
-evaluation metrics	yellow
-exact match accuracy	yellow
-exponential time	yellow
-F-measure	yellow
-human annotation performance	yellow
-machine translation tests	yellow
-measure	yellow
-MRR	yellow
-MT evaluation	yellow
-mutual information	yellow
-NIST	yellow
-NIST evaluation metric	yellow
-NIST score	yellow
-output quality	yellow
-paraphrase classification accuracy	yellow
-paraphrase probability	yellow
-parsing complexity	yellow
-PER	yellow
-performance	yellow
-polynomial time	yellow
-POURPRE	yellow
-precision	yellow
-predictive performance	yellow
-probabilities	yellow
-quality	yellow
-recall	yellow
-recognition accuracy	yellow
-retrieval accuracy	yellow
-retrieval performance	yellow
-retrieval time	yellow
-similarity measure	yellow
-similarity measures	yellow
-speech recognition word and sentence error rates	yellow
-standard evaluation metric	yellow
-taxonomic similarity	yellow
-transition probabilities	yellow
-translation accuracy	yellow
-translation probabilities	yellow
-translation quality	yellow
-translation speed and quality	yellow
-user satisfaction	yellow
-utterance classification performance	yellow
-vocabulary size	yellow
-word dependent substitution costs	yellow
-word error rate	yellow
-word or semantic error rate	yellow
-word sense disambiguation performance	yellow
-word-dependent substitution costs	yellow
-worst-case parsing time complexity	yellow
-WSD evaluation methodology	yellow
-bigram language model	yellow
-block unigram model	yellow
-candidate parses	yellow
-character bigrams	yellow
-Chinese word sense disambiguation model	yellow
-Chinese-to-English SMT model	yellow
-computation model	yellow
-computational model	yellow
-Conceptual Dependency Diagram ( CDD )	yellow
-conditional loglinear models	yellow
-continuous density hidden Markov models ( CDHMM )	yellow
-co-occurrence patterns	yellow
-dependency network representation	yellow
-dependency structures	yellow
-dependency trees	yellow
-dialogue patterns	yellow
-dictionary-based word vectors	yellow
-domain independent acoustic models	yellow
-English sentence structure	yellow
-error-correction rules	yellow
-event map	yellow
-features	yellow
-generative model	yellow
-generative probabilistic optical character recognition ( OCR ) model	yellow
-grammar model	yellow
-HBG model	yellow
-Heuristic Parsing Model ( HPM )	yellow
-Hidden Markov Model	yellow
-hierarchies	yellow
-hierarchy	yellow
-high-accuracy word-level alignment models	yellow
-IBM models	yellow
-IBM Models 1-2	yellow
-indices	yellow
-Japanese sentence structure	yellow
-language definition	yellow
-language learning model	yellow
-language model	yellow
-language models ( LMs )	yellow
-lexically distributed grammar	yellow
-linguistic pattern	yellow
-LM	yellow
-LMs	yellow
-local segment contiguity models	yellow
-local trees	yellow
-localized phrase-based prediction model	yellow
-logical model	yellow
-log-linear block bigram model	yellow
-LSA-based and the cooccurrence-based word vectors	yellow
-maximum-entropy model	yellow
-mixture trigram models	yellow
-model	yellow
-models	yellow
-n-gram models	yellow
-N-grams	yellow
-object-oriented grammar model	yellow
-parse	yellow
-parse tree	yellow
-parses	yellow
-parsing-based NE rules	yellow
-patterns	yellow
-phone n-gram model	yellow
-phrase-based models	yellow
-phrase-based translation model	yellow
-phrase-based translation models	yellow
-phrase-based unigram model	yellow
-polynomial time approximations	yellow
-probabilistic model	yellow
-probabilistic translation models	yellow
-ranking rules	yellow
-reference model	yellow
-rules	yellow
-semantic network	yellow
-semantic networks	yellow
-sentence plan	yellow
-sentence plans	yellow
-shallow linguistic features	yellow
-SMT models	yellow
-statistical translation model	yellow
-stemming model	yellow
-surface representation	yellow
-top human-ranked sentence plan	yellow
-tree-based models	yellow
-tree-based ordering model	yellow
-trigram language model	yellow
-trigram model	yellow
-trigram models	yellow
-user model	yellow
-User models	yellow
-user models	yellow
-word N-gram models	yellow
-word set based representation	yellow
-word vectors	yellow
-word-based models	yellow
-word-based trigram language model	yellow
+dags	DSMMM
+data structure	DSMMM
+hub	DSMMM
+hubs	DSMMM
+parse record	DSMMM
+path of arcs	DSMMM
+suffix array-based data structure	DSMMM
+word-trie	DSMMM
+actor paradigm	Linguistics
+Chomsky's minimalist program	Linguistics
+denotational semantics	Linguistics
+frame semantics paradigm	Linguistics
+generative phonological approach	Linguistics
+grammatical formalisms	Linguistics
+inferential theory for natural language presuppositions	Linguistics
+linguistic theory	Linguistics
+Montague semantics	Linguistics
+morphology	Linguistics
+one sense per collocation observation	Linguistics
+operational semantics	Linguistics
+phrasal and single word lexical paraphrases	Linguistics
+predicate-argument structures	Linguistics
+rhetorical functions	Linguistics
+semantics	Linguistics
+syntactic paraphrases	Linguistics
+test-score semantics	Linguistics
+abstracts	Linguistics
+alternative markers	Linguistics
+anaphora	Linguistics
+Arabic	Linguistics
+Arabic-English	Linguistics
+Arabic's rich morphology	Linguistics
+arguments	Linguistics
+Basque	Linguistics
+char	Linguistics
+character	Linguistics
+Chinese-English texts	Linguistics
+chunks	Linguistics
+clauses	Linguistics
+cohesive text	Linguistics
+commas	Linguistics
+compound noun	Linguistics
+compound nouns	Linguistics
+concept	Linguistics
+concepts	Linguistics
+conjunction	Linguistics
+constituent	Linguistics
+constituents	Linguistics
+context	Linguistics
+contexts	Linguistics
+coordinate conjunction	Linguistics
+coordinate conjunctions	Linguistics
+cue phrases	Linguistics
+Czech	Linguistics
+demonstrative expressions	Linguistics
+dependency structure	Linguistics
+determiners	Linguistics
+Determiners	Linguistics
+discourse phenomena	Linguistics
+discourse structure	Linguistics
+discourses	Linguistics
+document	Linguistics
+document descriptors ( keywords )	Linguistics
+domain	Linguistics
+domains	Linguistics
+English	Linguistics
+English alphabets	Linguistics
+English phrases	Linguistics
+English sentences	Linguistics
+English word	Linguistics
+English words	Linguistics
+event terms	Linguistics
+expert human translations	Linguistics
+expressions	Linguistics
+French sentence	Linguistics
+function words	Linguistics
+genre	Linguistics
+highly inflected languages	Linguistics
+highly inflective languages	Linguistics
+homophone	Linguistics
+honorifics	Linguistics
+Honorifics	Linguistics
+Japanese	Linguistics
+Japanese bunsetsu	Linguistics
+Japanese kanji-kana characters	Linguistics
+Japanese patent claim sentences	Linguistics
+Japanese texts	Linguistics
+kanji-kana characters	Linguistics
+keywords	Linguistics
+Korean	Linguistics
+language	Linguistics
+language families	Linguistics
+language pairs	Linguistics
+languages	Linguistics
+lexical-syntactic forms	Linguistics
+linguistic concepts	Linguistics
+linguistic objects	Linguistics
+linguistic structure	Linguistics
+machine translations	Linguistics
+meaning	Linguistics
+meaning structure	Linguistics
+morpheme	Linguistics
+morphemes	Linguistics
+named entities	Linguistics
+natural language	Linguistics
+natural language texts	Linguistics
+NE	Linguistics
+NE types	Linguistics
+non-contiguous phrases	Linguistics
+noun group	Linguistics
+noun phrases	Linguistics
+nouns	Linguistics
+original document	Linguistics
+overt case markers	Linguistics
+paragraph	Linguistics
+parse trees	Linguistics
+part-of-speech tag sequences	Linguistics
+PERSON NE	Linguistics
+personal names	Linguistics
+phrase	Linguistics
+phrase translations	Linguistics
+phrases	Linguistics
+polysemic verbs	Linguistics
+polysemous word	Linguistics
+polysemous words	Linguistics
+predicate	Linguistics
+predicate argument structures	Linguistics
+pronoun	Linguistics
+pronouns	Linguistics
+questions	Linguistics
+reference word string	Linguistics
+referents	Linguistics
+referring expressions	Linguistics
+Referring Expressions	Linguistics
+Russian	Linguistics
+segments	Linguistics
+semantic categories	Linguistics
+semantic roles	Linguistics
+semantic verb classes	Linguistics
+sense	Linguistics
+sentence	Linguistics
+sentences	Linguistics
+Slovak	Linguistics
+Source and Target languages	Linguistics
+source dependency parse	Linguistics
+source language	Linguistics
+source language sentences	Linguistics
+source texts	Linguistics
+source-language	Linguistics
+Spanish	Linguistics
+spatial attributes	Linguistics
+spoken language system domains	Linguistics
+stems	Linguistics
+sublanguage	Linguistics
+subpredicates	Linguistics
+suffix	Linguistics
+syllables	Linguistics
+syntactic categories	Linguistics
+syntactic structure	Linguistics
+syntax	Linguistics
+tag contexts	Linguistics
+target domain	Linguistics
+target language	Linguistics
+target texts	Linguistics
+text	Linguistics
+text collections	Linguistics
+tokens	Linguistics
+topic	Linguistics
+translation candidates	Linguistics
+trees	Linguistics
+units of translation	Linguistics
+unknown words	Linguistics
+user utterance	Linguistics
+user utterances	Linguistics
+verb	Linguistics
+verb final language	Linguistics
+verb group	Linguistics
+verbs	Linguistics
+WH-questions	Linguistics
+word	Linguistics
+word forms	Linguistics
+word fragments	Linguistics
+word n-grams	Linguistics
+word string	Linguistics
+word strings	Linguistics
+word tokens	Linguistics
+words	Linguistics
+word-senses	Linguistics
+zero pronouns	Linguistics
+predicates	Linguistics
+Slavonic languages	Linguistics
+affix lists	Linguistics
+annotated data	Linguistics
+bilingual corpus	Linguistics
+bilingual or multi-lingual texts	Linguistics
+bilingual parallel corpora	Linguistics
+bilingual parallel corpus	Linguistics
+bilingual resource	Linguistics
+bilingual texts	Linguistics
+broad coverage lexicon	Linguistics
+BU recognition system	Linguistics
+comparable , non-parallel corpora	Linguistics
+computational lexicon	Linguistics
+corpora	Linguistics
+corpus	Linguistics
+corpus data	Linguistics
+corpus of multiple English translations	Linguistics
+data	Linguistics
+dependency treelet translation pairs	Linguistics
+dialogue corpora	Linguistics
+dialogue data	Linguistics
+dictionary	Linguistics
+domain-independent lexica	Linguistics
+English-Chinese bitexts	Linguistics
+English-Chinese parallel corpora	Linguistics
+expert human translation	Linguistics
+German corpus	Linguistics
+gold standard	Linguistics
+grammar	Linguistics
+grammars	Linguistics
+human annotated text	Linguistics
+knowledgebases	Linguistics
+Korean newspaper articles	Linguistics
+Korean phonological knowledge base system	Linguistics
+lexical hierarchy	Linguistics
+lexicon	Linguistics
+lexicons	Linguistics
+linguistic databases	Linguistics
+machine readable dictionaries	Linguistics
+machine-readable dictionaries ( MRD's )	Linguistics
+manual word alignments	Linguistics
+manually sense-tagged data	Linguistics
+Monolingual , unannotated text	Linguistics
+monolingual parallel corpora	Linguistics
+move-tagged abstracts	Linguistics
+named entity annotations	Linguistics
+newspaper stories	Linguistics
+non-parallel corpus	Linguistics
+parallel corpora	Linguistics
+parallel corpus	Linguistics
+parallel data	Linguistics
+parallel text	Linguistics
+pharmaceutical news archive	Linguistics
+polarity-tagged corpus	Linguistics
+pre-tagged corpus	Linguistics
+seed sentences	Linguistics
+sense-tagged training data	Linguistics
+sentence-aligned parallel corpus	Linguistics
+SI corpus	Linguistics
+speech	Linguistics
+speech data	Linguistics
+spoken dialogue	Linguistics
+spoken language corpus	Linguistics
+spoken multiparty dialogue	Linguistics
+stop lists	Linguistics
+supervised training data	Linguistics
+Switchboard dialogues	Linguistics
+test corpus	Linguistics
+test set	Linguistics
+text corpus	Linguistics
+training corpus	Linguistics
+training data	Linguistics
+training material	Linguistics
+training resources	Linguistics
+training set	Linguistics
+translation examples	Linguistics
+translation lexicons	Linguistics
+tree adjoining grammar	Linguistics
+Treebank	Linguistics
+unrestricted texts	Linguistics
+unstemmed text	Linguistics
+vocabulary	Linguistics
+wide coverage English grammar	Linguistics
+word-aligned corpora	Linguistics
+word-based alignments	Linguistics
+ACE corpora	Linguistics
+Canadian Hansards	Linguistics
+COMPLEX	Linguistics
+CSR ( Connected Speech Recognition ) corpus	Linguistics
+CSR corpus	Linguistics
+CSR pilot corpus	Linguistics
+DARPA Resource Management corpus	Linguistics
+February '92 test sentences	Linguistics
+Grolier's Encyclopedia	Linguistics
+October '91 dry-run test set	Linguistics
+Penn Treebank WSJ	Linguistics
+Resource Management ( RM ) corpus	Linguistics
+Roget's Thesaurus	Linguistics
+SENSEVAL-2 nouns	Linguistics
+Wall Street Journal text corpus	Linguistics
+Wall Street Journal treebank	Linguistics
+approximation error	DSMMM
+arc	DSMMM
+clusters	DSMMM
+directed graphs	DSMMM
+disjunctions	DSMMM
+dominance graphs	DSMMM
+edge	DSMMM
+edges	DSMMM
+eigenvectors	DSMMM
+extensional equivalence	DSMMM
+feature sets	DSMMM
+formulas	DSMMM
+fuzzy quantifier	DSMMM
+graph	DSMMM
+graphs	DSMMM
+high dimensionality space	DSMMM
+in-degree	DSMMM
+logical expression	DSMMM
+logical well-formedness conditions	DSMMM
+mathematical formalism	DSMMM
+maximum likelihood criterion	DSMMM
+node	DSMMM
+node structures	DSMMM
+nodes	DSMMM
+non-terminal symbol	DSMMM
+out-degree	DSMMM
+path	DSMMM
+path values	DSMMM
+priors	DSMMM
+root	DSMMM
+search space	DSMMM
+separation margin	DSMMM
+spanning edges	DSMMM
+submanifold	DSMMM
+terminal and non-terminal edges	DSMMM
+transition graphs	DSMMM
+tree	DSMMM
+weighed sum	DSMMM
+weighted sum	DSMMM
+complexity	DSMMM
+cooccurrence statistics	DSMMM
+dialogue duration	DSMMM
+error reduction	DSMMM
+Markov probability	DSMMM
+model parameters	DSMMM
+similarity	DSMMM
+user-defined performance thresholds	DSMMM
+accuracy	DSMMM
+accuracy rate	DSMMM
+agreement	DSMMM
+alignment quality	DSMMM
+analysis cost	DSMMM
+associative similarity	DSMMM
+automatic evaluation measures	DSMMM
+average precision	DSMMM
+average precision metric	DSMMM
+average retrieval times	DSMMM
+baseline	DSMMM
+BLEU	DSMMM
+BLEU score	DSMMM
+BLEU scores	DSMMM
+character and word error rate	DSMMM
+classification accuracy	DSMMM
+component performance	DSMMM
+computational complexity	DSMMM
+confidence	DSMMM
+confidence measures	DSMMM
+costs	DSMMM
+discourse understanding accuracy	DSMMM
+error rate	DSMMM
+evaluation measure	DSMMM
+evaluation measures	DSMMM
+evaluation method	DSMMM
+evaluation metrics	DSMMM
+exact match accuracy	DSMMM
+exponential time	DSMMM
+F-measure	DSMMM
+human annotation performance	DSMMM
+machine translation tests	DSMMM
+measure	DSMMM
+MRR	DSMMM
+MT evaluation	DSMMM
+mutual information	DSMMM
+NIST	DSMMM
+NIST evaluation metric	DSMMM
+NIST score	DSMMM
+output quality	DSMMM
+paraphrase classification accuracy	DSMMM
+paraphrase probability	DSMMM
+parsing complexity	DSMMM
+PER	DSMMM
+performance	DSMMM
+polynomial time	DSMMM
+POURPRE	DSMMM
+precision	DSMMM
+predictive performance	DSMMM
+probabilities	DSMMM
+quality	DSMMM
+recall	DSMMM
+recognition accuracy	DSMMM
+retrieval accuracy	DSMMM
+retrieval performance	DSMMM
+retrieval time	DSMMM
+similarity measure	DSMMM
+similarity measures	DSMMM
+speech recognition word and sentence error rates	DSMMM
+standard evaluation metric	DSMMM
+taxonomic similarity	DSMMM
+transition probabilities	DSMMM
+translation accuracy	DSMMM
+translation probabilities	DSMMM
+translation quality	DSMMM
+translation speed and quality	DSMMM
+user satisfaction	DSMMM
+utterance classification performance	DSMMM
+vocabulary size	DSMMM
+word dependent substitution costs	DSMMM
+word error rate	DSMMM
+word or semantic error rate	DSMMM
+word sense disambiguation performance	DSMMM
+word-dependent substitution costs	DSMMM
+worst-case parsing time complexity	DSMMM
+WSD evaluation methodology	DSMMM
+bigram language model	DSMMM
+block unigram model	DSMMM
+candidate parses	DSMMM
+character bigrams	DSMMM
+Chinese word sense disambiguation model	DSMMM
+Chinese-to-English SMT model	DSMMM
+computation model	DSMMM
+computational model	DSMMM
+Conceptual Dependency Diagram ( CDD )	DSMMM
+conditional loglinear models	DSMMM
+continuous density hidden Markov models ( CDHMM )	DSMMM
+co-occurrence patterns	DSMMM
+dependency network representation	DSMMM
+dependency structures	DSMMM
+dependency trees	DSMMM
+dialogue patterns	DSMMM
+dictionary-based word vectors	DSMMM
+domain independent acoustic models	DSMMM
+English sentence structure	DSMMM
+error-correction rules	DSMMM
+event map	DSMMM
+features	DSMMM
+generative model	DSMMM
+generative probabilistic optical character recognition ( OCR ) model	DSMMM
+grammar model	DSMMM
+HBG model	DSMMM
+Heuristic Parsing Model ( HPM )	DSMMM
+Hidden Markov Model	DSMMM
+hierarchies	DSMMM
+hierarchy	DSMMM
+high-accuracy word-level alignment models	DSMMM
+IBM models	DSMMM
+IBM Models 1-2	DSMMM
+indices	DSMMM
+Japanese sentence structure	DSMMM
+language definition	DSMMM
+language learning model	DSMMM
+language model	DSMMM
+language models ( LMs )	DSMMM
+lexically distributed grammar	DSMMM
+linguistic pattern	DSMMM
+LM	DSMMM
+LMs	DSMMM
+local segment contiguity models	DSMMM
+local trees	DSMMM
+localized phrase-based prediction model	DSMMM
+logical model	DSMMM
+log-linear block bigram model	DSMMM
+LSA-based and the cooccurrence-based word vectors	DSMMM
+maximum-entropy model	DSMMM
+mixture trigram models	DSMMM
+model	DSMMM
+models	DSMMM
+n-gram models	DSMMM
+N-grams	DSMMM
+object-oriented grammar model	DSMMM
+parse	DSMMM
+parse tree	DSMMM
+parses	DSMMM
+parsing-based NE rules	DSMMM
+patterns	DSMMM
+phone n-gram model	DSMMM
+phrase-based models	DSMMM
+phrase-based translation model	DSMMM
+phrase-based translation models	DSMMM
+phrase-based unigram model	DSMMM
+polynomial time approximations	DSMMM
+probabilistic model	DSMMM
+probabilistic translation models	DSMMM
+ranking rules	DSMMM
+reference model	DSMMM
+rules	DSMMM
+semantic network	DSMMM
+semantic networks	DSMMM
+sentence plan	DSMMM
+sentence plans	DSMMM
+shallow linguistic features	DSMMM
+SMT models	DSMMM
+statistical translation model	DSMMM
+stemming model	DSMMM
+surface representation	DSMMM
+top human-ranked sentence plan	DSMMM
+tree-based models	DSMMM
+tree-based ordering model	DSMMM
+trigram language model	DSMMM
+trigram model	DSMMM
+trigram models	DSMMM
+user model	DSMMM
+User models	DSMMM
+user models	DSMMM
+word N-gram models	DSMMM
+word set based representation	DSMMM
+word vectors	DSMMM
+word-based models	DSMMM
+word-based trigram language model	DSMMM
 abstract moves	other
 actors	other
 addressee	other
@@ -811,680 +811,680 @@ verbal interactions	other
 word matchings	other
 word segmentation problem	other
 world knowledge	other
-abduction	blue
-abductive inference	blue
-adaptation	blue
-adaptive dynamic word formation	blue
-addressee identification	blue
-affix removal	blue
-agenda-based scheduling parser	blue
-alignment	blue
-alignment algorithm	blue
-alignment techniques	blue
-ambiguity handling	blue
-ambiguity packing	blue
-ambiguity packing and stochastic disambiguation techniques	blue
-analysis	blue
-anaphora resolution	blue
-annotating scheme	blue
-annotation	blue
-answer resolution algorithm	blue
-answering agents	blue
-APs	blue
-Arabic information retrieval	blue
-Arabic stemmer	blue
-Arabic word segmentation system	blue
-Arabic word segmenter	blue
-argumentation system	blue
-associative processors ( APs )	blue
-asynchronous message passing	blue
-ATN	blue
-ATNs	blue
-Augmented Case Marker System	blue
-Augmented Transition Network	blue
-automated evaluation techniques	blue
-automatic alignments	blue
-automatic evaluation	blue
-automatic extraction	blue
-automatic parameter optimization	blue
-automatic parse-based evaluation	blue
-Automatic Speech Recognition technology	blue
-automaton	blue
-bag-of-words and segment order-sensitive string comparison methods	blue
-bag-of-words methods	blue
-balance matching operation	blue
-baseline methods	blue
-baseline sentence planners	blue
-baseline system	blue
-baselines	blue
-basic mapping	blue
-Bayesian learning	blue
-beam-search decoder	blue
-Begin/After tagging	blue
-benchmark system	blue
-BIA	blue
-bidirectional grammar generation system	blue
-binary relational calculus notation	blue
-block reordering	blue
-block selection criteria	blue
-Boolean conditions	blue
-boosting approach	blue
-boosting method	blue
-bootstrapping approach	blue
-bootstrapping procedure	blue
-bottom-up pattern-matching parser	blue
-case-based MT ( CBMT )	blue
-case-based reasoning	blue
-categorial grammar	blue
-Category Cooccurrence Restrictions ( CCRs )	blue
-CCR formalism	blue
-CCRs	blue
-certainty conditions	blue
-CFG filter	blue
-CFG filtering techniques	blue
-chart	blue
-chart Parsing	blue
-Chart parsing	blue
-chart-based algorithms	blue
-chart-based phrase structure parsing	blue
-Chart-like parsing	blue
-Chinese Natural Language Processing	blue
-class-dependent interpolation	blue
-classification method	blue
-classifiers	blue
-cluster number estimation	blue
-clustering	blue
-clustering algorithm	blue
-clustering methods	blue
-coherence rules	blue
-cohesion constraint	blue
-Combination methods	blue
-combination methods	blue
-comma checker	blue
-commonsense reasoning	blue
-computer aided second language learning	blue
-computer system	blue
-computer text generation system	blue
-concept-based seeds	blue
-concurrency	blue
-concurrency of computation	blue
-concurrent , object-oriented natural language parsing	blue
-concurrent computation model	blue
-constraint-based parser/generator	blue
-content determination	blue
-content-independent formalism	blue
-context free languages	blue
-context-dependent phonetic modelling	blue
-context-free grammars	blue
-continuous speech recognition	blue
-control structure	blue
-Cooperative Model	blue
-core modules	blue
-corrective training	blue
-CSR	blue
-Czech-English statistical machine translation system	blue
-database query applications	blue
-database query paraphrase	blue
-databases	blue
-decision list	blue
-decision tree	blue
-decision tree based approach	blue
-decision tree building	blue
-decision tree learning	blue
-decoder	blue
-decoding	blue
-decoding algorithm	blue
-default reasoning	blue
-defeasibility	blue
-defeasible reasoning	blue
-defeat rules	blue
-dependency grammars	blue
-dependency parser	blue
-dependency pointers	blue
-descriptors	blue
-deterministic finite automaton	blue
-diagnostic tool	blue
-dialog schemata	blue
-dialog systems	blue
-dialogue acquisition and tracking algorithm	blue
-dialogue system	blue
-dialogue systems	blue
-dialogue translation system	blue
-digital learning	blue
-disambiguation algorithms	blue
-disambiguation tool	blue
-discourse constraint	blue
-Discourse processing	blue
-discourse processing algorithms	blue
-discourse segmentation	blue
-disjunctive feature structures	blue
-disjunctive normal form	blue
-distributed message-passing infrastructure	blue
-document classification	blue
-document oriented preference sets( DoPS )	blue
-document processing	blue
-document representation	blue
-document summarization	blue
-document understanding	blue
-document understanding technology	blue
-DoPS system	blue
-dynamic combiner	blue
-Dynamic Grammars	blue
-Dynamic Hierarchical Phrasal Lexicon ( DHPL )	blue
-dynamic language model combination	blue
-EBMT	blue
-EBMT system	blue
-ECA	blue
-edit operation	blue
-embodied conversational agents	blue
-English coordinate structure analysis model	blue
-English stemmer	blue
-English understanding system	blue
-English-Japanese machine translation	blue
-English-Japanese MT system	blue
-ensemble methods	blue
-entity-oriented parser	blue
-ER	blue
-Error analysis	blue
-Error correction	blue
-error correction	blue
-error correction methodology	blue
-evaluation methodology	blue
-evaluation scheme	blue
-evaluation techniques	blue
-event networks	blue
-example-retrieval ( ER )	blue
-experimental evaluation	blue
-expert systems	blue
-exponential time lower-bound	blue
-extraction and conversion rules	blue
-extrapolation	blue
-extraposition grammars	blue
-feature selection methods	blue
-feature structure-directed generation	blue
-feature structures	blue
-Finite State Model ( FSM )	blue
-finite-state models	blue
-formalisms	blue
-forward-backward algorithm	blue
-fragmentary recognition	blue
-free indexation	blue
-free indexation algorithm	blue
-FSM	blue
-fully-connected first-order statistical class grammar	blue
-fuzzy syllogism	blue
-generalized LR parsing	blue
-generalized metaphor mappings	blue
-general-purpose NLP components	blue
-Generation	blue
-generation	blue
-generation system	blue
-generator	blue
-grammar checker	blue
-grammar formalisms	blue
-Graph unification	blue
-graphical model	blue
-hand-crafted rules	blue
-hand-crafted system	blue
-hand-crafted template-based generation component	blue
-hand-crafted template-based or rule-based approaches	blue
-HBG	blue
-HDAG Kernel	blue
-HDAGs	blue
-Head Grammars	blue
-head-orientation	blue
-heuristic learning	blue
-heuristic rules	blue
-heuristics	blue
-hidden Markov models ( HMM )	blue
-Hierarchical Directed Acyclic Graph ( HDAG ) Kernel	blue
-histogram	blue
-Horn logic program	blue
-HPSG	blue
-human interaction with data sources	blue
-human language technology	blue
-human plausible reasoning	blue
-human transcription	blue
-human-computer interaction	blue
-Human-Machine Communication	blue
-IBM statistical MT system	blue
-identification of paraphrases	blue
-IE-enhanced text browsers	blue
-image and text understanding	blue
-image understanding	blue
-implicit reference resolution	blue
-incremental grammar development	blue
-index	blue
-indexing	blue
-indexings	blue
-inductive decision tree learning	blue
-inference	blue
-inference method	blue
-inference types	blue
-information extraction	blue
-information extraction ( IE ) systems	blue
-information retrieval task	blue
-information retrieval techniques	blue
-inheritance	blue
-inheritance mechanisms	blue
-intelligent interactive systems	blue
-intelligent mobile agents	blue
-Interactive Machine Translation	blue
-interactive question-answering ( Q/A ) system	blue
-interface	blue
-interfaces	blue
-interpolation methods	blue
-interpretation and generation of natural language	blue
-IR	blue
-Isomorphic Grammars	blue
-Japanese revision support systems	blue
-Japanese-English translation	blue
-KANA-KANJI conversion	blue
-kernel function	blue
-kernel functions	blue
-key prediction	blue
-knowledge-based automated acquisition of grammars	blue
-knowledge-based generation systems	blue
-knowledge-based information retrieval	blue
-Korean Phonology Structure Grammar ( KPSG )	blue
-KPSG	blue
-language acquisition	blue
-language identification	blue
-language modeling	blue
-language neutral meaning representation	blue
-language processing modules	blue
-language processing systems	blue
-language understanding	blue
-language understanding and generation modules	blue
-large database	blue
-large vocabulary continuous speech recognition	blue
-large-scale grammars	blue
-learner	blue
-learning	blue
-learning algorithm	blue
-left corner parsing algorithm	blue
-length-based or translation-based criterion	blue
-lexical cohesion-based approach	blue
-lexical weighting	blue
-Lexical-Functional Grammars ( LFG )	blue
-LFG	blue
-limited domain semantics	blue
-linguistic annotation	blue
-linguistic introspection	blue
-linguistic parser/generator	blue
-linguistic representation	blue
-linguistically sophisticated representations	blue
-Link detection	blue
-Listen-Communicate-Show ( LCS )	blue
-local phrase re-ordering	blue
-logic	blue
-logical definition	blue
-logical form language	blue
-logical formulas	blue
-logic-based grammar formalism	blue
-log-linear ( maximum-entropy ) models	blue
-log-linear and linear interpolation	blue
-LSA-based , cooccurrence-based and dictionary-based methods	blue
-LTAG	blue
-machine learning	blue
-machine learning approach	blue
-machine learning techniques	blue
-Machine Translation	blue
-machine translation	blue
-machine translation ( MT ) systems	blue
-Machine Translation (MT) systems	blue
-machine translation pipeline	blue
-machine translation systems	blue
-main parser	blue
-management of uncertainty	blue
-manual evaluation	blue
-manual transcription	blue
-MAP estimation approach	blue
-maximum a posteriori estimation	blue
-maximum entropy classifier	blue
-maximum entropy word alignment algorithm	blue
-maximum likelihood method	blue
-message passing protocols	blue
-metaphor interpretation	blue
-minimal DFA	blue
-Minimalist grammars	blue
-MLE reestimation algorithms	blue
-mobile , intelligent agent	blue
-monolingual UCG	blue
-MT	blue
-MT evaluation techniques	blue
-MT system	blue
-MT systems	blue
-MT-based paraphrasing technique	blue
-m-th order Markov chain model	blue
-multi engine machine translation system	blue
-multi-document summarization	blue
-multi-level answer resolution algorithm	blue
-multimedia articulation of answers	blue
-Named Entity ( NE ) tagging	blue
-natural language applications	blue
-natural language generation system	blue
-natural language generator	blue
-natural language interface	blue
-natural language interfaces	blue
-natural language processing	blue
-Natural Language Processing	blue
-Natural Language Processing ( NLP ) systems	blue
-natural language question answering system	blue
-natural language search engines	blue
-natural language system	blue
-natural language understanding	blue
-n-best speech/language integration architecture	blue
-NE system	blue
-neural network	blue
-new event detection	blue
-NLP	blue
-NLP techniques	blue
-Node-based inference	blue
-node-based inference	blue
-Node-based inference rules	blue
-noisy channel framework	blue
-non-deterministic parsing choices	blue
-non-English ( Arabic ) stemmer	blue
-non-monotonic reasoning	blue
-numerical constraints	blue
-OCR system	blue
-ontology	blue
-open-domain question answering capability	blue
-optical character recognition	blue
-oracle	blue
-PageRank algorithm	blue
-parameter smoothing	blue
-paraphrase classification	blue
-paraphrase extraction and ranking methods	blue
-paraphrasing	blue
-parser	blue
-parser evaluation methods	blue
-parsing	blue
-Parsing	blue
-parsing algorithms	blue
-parsing strategies	blue
-parsing technique	blue
-parsing-as-deduction	blue
-part of speech tagging	blue
-partial instantiation	blue
-part-of-speech tagger	blue
-part-of-speech-based criterion	blue
-Path-based inference	blue
-Path-based inference rules	blue
-path-based inference rules	blue
-P-CFG	blue
-phone-string classifier	blue
-phrasal SMT	blue
-phrasal translation	blue
-phrase boundary heuristics	blue
-phrase-based statistical machine translation	blue
-phrase-based statistical machine translation method	blue
-pilot system	blue
-planning algorithm	blue
-planning-based architecture	blue
-polarization	blue
-polynomial time decoding algorithm	blue
-polynomial time solution	blue
-post-processing	blue
-pragmatics processing	blue
-predicate calculus notation	blue
-predictive questioning	blue
-principle-and-parameters language framework	blue
-probabilistic context-free grammars	blue
-probabilistic LR parser	blue
-probabilistic parser	blue
-probabilistic spectral mapping	blue
-probabilistic synchronous dependency insertion grammar	blue
-processing	blue
-programming language	blue
-Prolog	blue
-pronominal anaphora resolution module	blue
-pronoun resolution	blue
-prototype system	blue
-Q/A	blue
-qualitative user evaluation	blue
-query optimisation	blue
-Question Answering ( QA ) systems	blue
-question classification	blue
-randomized sentence-plan-generator ( SPG )	blue
-range concatenation grammar [RCG] formalism	blue
-range concatenation languages [RCL]	blue
-ranking	blue
-rankings	blue
-RCG	blue
-RCGs	blue
-RCL parser	blue
-RCL parsers	blue
-real-time spoken language translation	blue
-recognition	blue
-recognition network	blue
-recognition task	blue
-reestimation formulas	blue
-relational database	blue
-repository	blue
-resource sensitive logic	blue
-resource-frugal approach	blue
-retrieval	blue
-rewriting systems	blue
-robust analysis	blue
-robust parsing capability	blue
-rule-based and example based machine translation modules	blue
-rule-based sentence planners	blue
-rule-based systems	blue
-rule-based translation systems	blue
-rule-reduction algorithm	blue
-scenario templates	blue
-search engine	blue
-segment order-sensitive methods	blue
-segmental k-means algorithm	blue
-segmentation	blue
-semantic annotation	blue
-semantic frame	blue
-semantic grammar	blue
-semantic interpretation	blue
-Semantic Role System	blue
-semantic-head-driven generation	blue
-sentence alignment tasks	blue
-sentence analysis	blue
-sentence condensation	blue
-sentence condensation systems	blue
-sentence planner	blue
-Sentence planning	blue
-sentence scoping	blue
-sentence-plan-ranker ( SPR )	blue
-SI recognition	blue
-Similarity-driven Transfer System ( SimTran )	blue
-Simulated annealing approach	blue
-SMT	blue
-SMT algorithms	blue
-SMT system	blue
-software infrastructure	blue
-source interval projections	blue
-speaker adaptation	blue
-speaker adaptation ( SA )	blue
-speaker group modeling	blue
-speaker-independent ( SI ) training	blue
-spectral clustering based approach	blue
-speech processing	blue
-speech recognition	blue
-speech recognition hypotheses ( SRH )	blue
-speech understanding	blue
-speech-search algorithm	blue
-spelling-checkers	blue
-Spelling-checkers	blue
-spoken dialogue system	blue
-spoken dialogue systems	blue
-spoken language system	blue
-Spoken language translation	blue
-spoken language translation	blue
-spoken language understanding	blue
-spoken language understanding system	blue
-SPR	blue
-SRHs	blue
-Statistical approach	blue
-statistical approaches	blue
-Statistical Learning Model ( SLM )	blue
-statistical machine translation	blue
-Statistical machine translation ( SMT )	blue
-statistical machine translation ( SMT )	blue
-Statistical Machine Translation ( SMT )	blue
-statistical machine translation (SMT)	blue
-statistical machine translation system	blue
-statistical machine translation tool kit	blue
-statistical models	blue
-statistical MT architectures	blue
-statistical MT systems	blue
-statistical POS tagger	blue
-statistical systems	blue
-statistically fitted rule-based model	blue
-stemmer	blue
-stochastic output selection	blue
-stochastic processes	blue
-stochastic tree-to-tree transducer	blue
-story link detection	blue
-structural disambiguation	blue
-structure-sharing	blue
-successive learners	blue
-superordinate substitution	blue
-supervised and unsupervised methods	blue
-supervised learning	blue
-Syllogistic reasoning with dispositions	blue
-Synchronous dependency insertion grammars	blue
-synchronous grammars	blue
-synchronous TAGs	blue
-syntactic ambiguity resolution	blue
-syntactic analysis	blue
-syntactic and pragmatic analysis	blue
-syntactic disambiguation	blue
-Syntactic Role System	blue
-syntax formalisms	blue
-syntax-based decoder	blue
-Syntax-based statistical machine translation ( MT )	blue
-syntax-based statistical machine translation system	blue
-system combination	blue
-TAG	blue
-tagger	blue
-tagging strategies	blue
-TAGs	blue
-target word selection	blue
-Task-based evaluation	blue
-task-oriented dialogs	blue
-TDMT	blue
-TDMT ( Transfer-Driven Machine Translation )	blue
-temporal anaphora resolution	blue
-term weighting statistical assignment paradigm	blue
-terminal substring parsing	blue
-text browser	blue
-text mining	blue
-text processing software	blue
-text retrieval application	blue
-text understanding	blue
-text-understanding systems	blue
-Thai key prediction	blue
-Thai-English language identification	blue
-title-driven name recognition	blue
-token classification task	blue
-top-down derivation	blue
-Topic Detection and Tracking tasks	blue
-trainable sentence planner	blue
-training	blue
-training algorithm	blue
-training method	blue
-transfer mappings	blue
-transfer phase	blue
-transfer system	blue
-translation	blue
-translation memory system	blue
-translation system	blue
-translation systems	blue
-Tree Adjoining Grammars	blue
-tree-adjoining grammars ( TAG )	blue
-tree-to-tree translation	blue
-two-step clustering process	blue
-typed feature structures	blue
-type-unification	blue
-typing-algorithm	blue
-underspecified chart representations	blue
-underspecified semantic representation ( USR )	blue
-unification	blue
-Unification	blue
-unification algorithms	blue
-Unification Categorial Grammar ( UCG )	blue
-unification framework	blue
-unification-based grammar formalism	blue
-Unification-based grammar formalisms	blue
-unification-based grammar parsing	blue
-unsupervised algorithm	blue
-unsupervised component	blue
-unsupervised learning algorithm	blue
-unsupervised learning approach	blue
-unsupervised structure finding methods	blue
-unsupervised technique	blue
-unsupervised training	blue
-unsupervised word alignment component	blue
-unsupervised WSD	blue
-unsupervised WSD systems	blue
-user modeling	blue
-user modeling systems	blue
-USRs	blue
-utterance classification	blue
-vector space model	blue
-visualization method	blue
-voice interactive system	blue
-voting- and arbiter-based combination strategies	blue
-web	blue
-Web	blue
-Web-based computer-assisted academic writing	blue
-word alignment	blue
-word classification	blue
-word disambiguation	blue
-Word Identification	blue
-word order generation	blue
-word segmentation	blue
-word sense disambigation models	blue
-word sense disambiguation	blue
-word sense disambiguation ( WSD )	blue
-word sense disambiguation ( WSD ) models	blue
-word set representation	blue
-word-sense disambiguation algorithm	blue
-word-sense disambiguation systems	blue
-word-trigram recognition	blue
-WSD models	blue
-WSD programs	blue
-WSI	blue
-WSI algorithm	blue
-APT	blue
-CARE	blue
-CCLINC Korean-to-English translation system	blue
-Chat-80	blue
-CMU's SMT system	blue
-FERRET	blue
-FlexP	blue
-FROFF	blue
-IDUS ( Intelligent Document Understanding System )	blue
-InfoMagnets	blue
-JAVELIN	blue
-JAVELIN system	blue
-LCS-Marine	blue
-LHIP	blue
-linguistic tools	blue
-LOGON MT demonstrator	blue
-Lucy	blue
-MIT ATIS ( Air Travel Information Service ) system	blue
-MIT ATIS system	blue
-NOMAD	blue
-ONTOSCORE	blue
-Paramax spoken language understanding system	blue
-Paul	blue
-RAREAS	blue
-RINA	blue
-SPoT	blue
-SPRINT	blue
-STTK	blue
-SUMMIT recognizer	blue
-SYSCONJ system	blue
-TACITUS	blue
-TAP-XL Automated Analyst's Assistant	blue
-TGE	blue
-training examples	blue
+abduction	TechTool
+abductive inference	TechTool
+adaptation	TechTool
+adaptive dynamic word formation	TechTool
+addressee identification	TechTool
+affix removal	TechTool
+agenda-based scheduling parser	TechTool
+alignment	TechTool
+alignment algorithm	TechTool
+alignment techniques	TechTool
+ambiguity handling	TechTool
+ambiguity packing	TechTool
+ambiguity packing and stochastic disambiguation techniques	TechTool
+analysis	TechTool
+anaphora resolution	TechTool
+annotating scheme	TechTool
+annotation	TechTool
+answer resolution algorithm	TechTool
+answering agents	TechTool
+APs	TechTool
+Arabic information retrieval	TechTool
+Arabic stemmer	TechTool
+Arabic word segmentation system	TechTool
+Arabic word segmenter	TechTool
+argumentation system	TechTool
+associative processors ( APs )	TechTool
+asynchronous message passing	TechTool
+ATN	TechTool
+ATNs	TechTool
+Augmented Case Marker System	TechTool
+Augmented Transition Network	TechTool
+automated evaluation techniques	TechTool
+automatic alignments	TechTool
+automatic evaluation	TechTool
+automatic extraction	TechTool
+automatic parameter optimization	TechTool
+automatic parse-based evaluation	TechTool
+Automatic Speech Recognition technology	TechTool
+automaton	TechTool
+bag-of-words and segment order-sensitive string comparison methods	TechTool
+bag-of-words methods	TechTool
+balance matching operation	TechTool
+baseline methods	TechTool
+baseline sentence planners	TechTool
+baseline system	TechTool
+baselines	TechTool
+basic mapping	TechTool
+Bayesian learning	TechTool
+beam-search decoder	TechTool
+Begin/After tagging	TechTool
+benchmark system	TechTool
+BIA	TechTool
+bidirectional grammar generation system	TechTool
+binary relational calculus notation	TechTool
+block reordering	TechTool
+block selection criteria	TechTool
+Boolean conditions	TechTool
+boosting approach	TechTool
+boosting method	TechTool
+bootstrapping approach	TechTool
+bootstrapping procedure	TechTool
+bottom-up pattern-matching parser	TechTool
+case-based MT ( CBMT )	TechTool
+case-based reasoning	TechTool
+categorial grammar	TechTool
+Category Cooccurrence Restrictions ( CCRs )	TechTool
+CCR formalism	TechTool
+CCRs	TechTool
+certainty conditions	TechTool
+CFG filter	TechTool
+CFG filtering techniques	TechTool
+chart	TechTool
+chart Parsing	TechTool
+Chart parsing	TechTool
+chart-based algorithms	TechTool
+chart-based phrase structure parsing	TechTool
+Chart-like parsing	TechTool
+Chinese Natural Language Processing	TechTool
+class-dependent interpolation	TechTool
+classification method	TechTool
+classifiers	TechTool
+cluster number estimation	TechTool
+clustering	TechTool
+clustering algorithm	TechTool
+clustering methods	TechTool
+coherence rules	TechTool
+cohesion constraint	TechTool
+Combination methods	TechTool
+combination methods	TechTool
+comma checker	TechTool
+commonsense reasoning	TechTool
+computer aided second language learning	TechTool
+computer system	TechTool
+computer text generation system	TechTool
+concept-based seeds	TechTool
+concurrency	TechTool
+concurrency of computation	TechTool
+concurrent , object-oriented natural language parsing	TechTool
+concurrent computation model	TechTool
+constraint-based parser/generator	TechTool
+content determination	TechTool
+content-independent formalism	TechTool
+context free languages	TechTool
+context-dependent phonetic modelling	TechTool
+context-free grammars	TechTool
+continuous speech recognition	TechTool
+control structure	TechTool
+Cooperative Model	TechTool
+core modules	TechTool
+corrective training	TechTool
+CSR	TechTool
+Czech-English statistical machine translation system	TechTool
+database query applications	TechTool
+database query paraphrase	TechTool
+databases	TechTool
+decision list	TechTool
+decision tree	TechTool
+decision tree based approach	TechTool
+decision tree building	TechTool
+decision tree learning	TechTool
+decoder	TechTool
+decoding	TechTool
+decoding algorithm	TechTool
+default reasoning	TechTool
+defeasibility	TechTool
+defeasible reasoning	TechTool
+defeat rules	TechTool
+dependency grammars	TechTool
+dependency parser	TechTool
+dependency pointers	TechTool
+descriptors	TechTool
+deterministic finite automaton	TechTool
+diagnostic tool	TechTool
+dialog schemata	TechTool
+dialog systems	TechTool
+dialogue acquisition and tracking algorithm	TechTool
+dialogue system	TechTool
+dialogue systems	TechTool
+dialogue translation system	TechTool
+digital learning	TechTool
+disambiguation algorithms	TechTool
+disambiguation tool	TechTool
+discourse constraint	TechTool
+Discourse processing	TechTool
+discourse processing algorithms	TechTool
+discourse segmentation	TechTool
+disjunctive feature structures	TechTool
+disjunctive normal form	TechTool
+distributed message-passing infrastructure	TechTool
+document classification	TechTool
+document oriented preference sets( DoPS )	TechTool
+document processing	TechTool
+document representation	TechTool
+document summarization	TechTool
+document understanding	TechTool
+document understanding technology	TechTool
+DoPS system	TechTool
+dynamic combiner	TechTool
+Dynamic Grammars	TechTool
+Dynamic Hierarchical Phrasal Lexicon ( DHPL )	TechTool
+dynamic language model combination	TechTool
+EBMT	TechTool
+EBMT system	TechTool
+ECA	TechTool
+edit operation	TechTool
+embodied conversational agents	TechTool
+English coordinate structure analysis model	TechTool
+English stemmer	TechTool
+English understanding system	TechTool
+English-Japanese machine translation	TechTool
+English-Japanese MT system	TechTool
+ensemble methods	TechTool
+entity-oriented parser	TechTool
+ER	TechTool
+Error analysis	TechTool
+Error correction	TechTool
+error correction	TechTool
+error correction methodology	TechTool
+evaluation methodology	TechTool
+evaluation scheme	TechTool
+evaluation techniques	TechTool
+event networks	TechTool
+example-retrieval ( ER )	TechTool
+experimental evaluation	TechTool
+expert systems	TechTool
+exponential time lower-bound	TechTool
+extraction and conversion rules	TechTool
+extrapolation	TechTool
+extraposition grammars	TechTool
+feature selection methods	TechTool
+feature structure-directed generation	TechTool
+feature structures	TechTool
+Finite State Model ( FSM )	TechTool
+finite-state models	TechTool
+formalisms	TechTool
+forward-backward algorithm	TechTool
+fragmentary recognition	TechTool
+free indexation	TechTool
+free indexation algorithm	TechTool
+FSM	TechTool
+fully-connected first-order statistical class grammar	TechTool
+fuzzy syllogism	TechTool
+generalized LR parsing	TechTool
+generalized metaphor mappings	TechTool
+general-purpose NLP components	TechTool
+Generation	TechTool
+generation	TechTool
+generation system	TechTool
+generator	TechTool
+grammar checker	TechTool
+grammar formalisms	TechTool
+Graph unification	TechTool
+graphical model	TechTool
+hand-crafted rules	TechTool
+hand-crafted system	TechTool
+hand-crafted template-based generation component	TechTool
+hand-crafted template-based or rule-based approaches	TechTool
+HBG	TechTool
+HDAG Kernel	TechTool
+HDAGs	TechTool
+Head Grammars	TechTool
+head-orientation	TechTool
+heuristic learning	TechTool
+heuristic rules	TechTool
+heuristics	TechTool
+hidden Markov models ( HMM )	TechTool
+Hierarchical Directed Acyclic Graph ( HDAG ) Kernel	TechTool
+histogram	TechTool
+Horn logic program	TechTool
+HPSG	TechTool
+human interaction with data sources	TechTool
+human language technology	TechTool
+human plausible reasoning	TechTool
+human transcription	TechTool
+human-computer interaction	TechTool
+Human-Machine Communication	TechTool
+IBM statistical MT system	TechTool
+identification of paraphrases	TechTool
+IE-enhanced text browsers	TechTool
+image and text understanding	TechTool
+image understanding	TechTool
+implicit reference resolution	TechTool
+incremental grammar development	TechTool
+index	TechTool
+indexing	TechTool
+indexings	TechTool
+inductive decision tree learning	TechTool
+inference	TechTool
+inference method	TechTool
+inference types	TechTool
+information extraction	TechTool
+information extraction ( IE ) systems	TechTool
+information retrieval task	TechTool
+information retrieval techniques	TechTool
+inheritance	TechTool
+inheritance mechanisms	TechTool
+intelligent interactive systems	TechTool
+intelligent mobile agents	TechTool
+Interactive Machine Translation	TechTool
+interactive question-answering ( Q/A ) system	TechTool
+interface	TechTool
+interfaces	TechTool
+interpolation methods	TechTool
+interpretation and generation of natural language	TechTool
+IR	TechTool
+Isomorphic Grammars	TechTool
+Japanese revision support systems	TechTool
+Japanese-English translation	TechTool
+KANA-KANJI conversion	TechTool
+kernel function	TechTool
+kernel functions	TechTool
+key prediction	TechTool
+knowledge-based automated acquisition of grammars	TechTool
+knowledge-based generation systems	TechTool
+knowledge-based information retrieval	TechTool
+Korean Phonology Structure Grammar ( KPSG )	TechTool
+KPSG	TechTool
+language acquisition	TechTool
+language identification	TechTool
+language modeling	TechTool
+language neutral meaning representation	TechTool
+language processing modules	TechTool
+language processing systems	TechTool
+language understanding	TechTool
+language understanding and generation modules	TechTool
+large database	TechTool
+large vocabulary continuous speech recognition	TechTool
+large-scale grammars	TechTool
+learner	TechTool
+learning	TechTool
+learning algorithm	TechTool
+left corner parsing algorithm	TechTool
+length-based or translation-based criterion	TechTool
+lexical cohesion-based approach	TechTool
+lexical weighting	TechTool
+Lexical-Functional Grammars ( LFG )	TechTool
+LFG	TechTool
+limited domain semantics	TechTool
+linguistic annotation	TechTool
+linguistic introspection	TechTool
+linguistic parser/generator	TechTool
+linguistic representation	TechTool
+linguistically sophisticated representations	TechTool
+Link detection	TechTool
+Listen-Communicate-Show ( LCS )	TechTool
+local phrase re-ordering	TechTool
+logic	TechTool
+logical definition	TechTool
+logical form language	TechTool
+logical formulas	TechTool
+logic-based grammar formalism	TechTool
+log-linear ( maximum-entropy ) models	TechTool
+log-linear and linear interpolation	TechTool
+LSA-based , cooccurrence-based and dictionary-based methods	TechTool
+LTAG	TechTool
+machine learning	TechTool
+machine learning approach	TechTool
+machine learning techniques	TechTool
+Machine Translation	TechTool
+machine translation	TechTool
+machine translation ( MT ) systems	TechTool
+Machine Translation (MT) systems	TechTool
+machine translation pipeline	TechTool
+machine translation systems	TechTool
+main parser	TechTool
+management of uncertainty	TechTool
+manual evaluation	TechTool
+manual transcription	TechTool
+MAP estimation approach	TechTool
+maximum a posteriori estimation	TechTool
+maximum entropy classifier	TechTool
+maximum entropy word alignment algorithm	TechTool
+maximum likelihood method	TechTool
+message passing protocols	TechTool
+metaphor interpretation	TechTool
+minimal DFA	TechTool
+Minimalist grammars	TechTool
+MLE reestimation algorithms	TechTool
+mobile , intelligent agent	TechTool
+monolingual UCG	TechTool
+MT	TechTool
+MT evaluation techniques	TechTool
+MT system	TechTool
+MT systems	TechTool
+MT-based paraphrasing technique	TechTool
+m-th order Markov chain model	TechTool
+multi engine machine translation system	TechTool
+multi-document summarization	TechTool
+multi-level answer resolution algorithm	TechTool
+multimedia articulation of answers	TechTool
+Named Entity ( NE ) tagging	TechTool
+natural language applications	TechTool
+natural language generation system	TechTool
+natural language generator	TechTool
+natural language interface	TechTool
+natural language interfaces	TechTool
+natural language processing	TechTool
+Natural Language Processing	TechTool
+Natural Language Processing ( NLP ) systems	TechTool
+natural language question answering system	TechTool
+natural language search engines	TechTool
+natural language system	TechTool
+natural language understanding	TechTool
+n-best speech/language integration architecture	TechTool
+NE system	TechTool
+neural network	TechTool
+new event detection	TechTool
+NLP	TechTool
+NLP techniques	TechTool
+Node-based inference	TechTool
+node-based inference	TechTool
+Node-based inference rules	TechTool
+noisy channel framework	TechTool
+non-deterministic parsing choices	TechTool
+non-English ( Arabic ) stemmer	TechTool
+non-monotonic reasoning	TechTool
+numerical constraints	TechTool
+OCR system	TechTool
+ontology	TechTool
+open-domain question answering capability	TechTool
+optical character recognition	TechTool
+oracle	TechTool
+PageRank algorithm	TechTool
+parameter smoothing	TechTool
+paraphrase classification	TechTool
+paraphrase extraction and ranking methods	TechTool
+paraphrasing	TechTool
+parser	TechTool
+parser evaluation methods	TechTool
+parsing	TechTool
+Parsing	TechTool
+parsing algorithms	TechTool
+parsing strategies	TechTool
+parsing technique	TechTool
+parsing-as-deduction	TechTool
+part of speech tagging	TechTool
+partial instantiation	TechTool
+part-of-speech tagger	TechTool
+part-of-speech-based criterion	TechTool
+Path-based inference	TechTool
+Path-based inference rules	TechTool
+path-based inference rules	TechTool
+P-CFG	TechTool
+phone-string classifier	TechTool
+phrasal SMT	TechTool
+phrasal translation	TechTool
+phrase boundary heuristics	TechTool
+phrase-based statistical machine translation	TechTool
+phrase-based statistical machine translation method	TechTool
+pilot system	TechTool
+planning algorithm	TechTool
+planning-based architecture	TechTool
+polarization	TechTool
+polynomial time decoding algorithm	TechTool
+polynomial time solution	TechTool
+post-processing	TechTool
+pragmatics processing	TechTool
+predicate calculus notation	TechTool
+predictive questioning	TechTool
+principle-and-parameters language framework	TechTool
+probabilistic context-free grammars	TechTool
+probabilistic LR parser	TechTool
+probabilistic parser	TechTool
+probabilistic spectral mapping	TechTool
+probabilistic synchronous dependency insertion grammar	TechTool
+processing	TechTool
+programming language	TechTool
+Prolog	TechTool
+pronominal anaphora resolution module	TechTool
+pronoun resolution	TechTool
+prototype system	TechTool
+Q/A	TechTool
+qualitative user evaluation	TechTool
+query optimisation	TechTool
+Question Answering ( QA ) systems	TechTool
+question classification	TechTool
+randomized sentence-plan-generator ( SPG )	TechTool
+range concatenation grammar [RCG] formalism	TechTool
+range concatenation languages [RCL]	TechTool
+ranking	TechTool
+rankings	TechTool
+RCG	TechTool
+RCGs	TechTool
+RCL parser	TechTool
+RCL parsers	TechTool
+real-time spoken language translation	TechTool
+recognition	TechTool
+recognition network	TechTool
+recognition task	TechTool
+reestimation formulas	TechTool
+relational database	TechTool
+repository	TechTool
+resource sensitive logic	TechTool
+resource-frugal approach	TechTool
+retrieval	TechTool
+rewriting systems	TechTool
+robust analysis	TechTool
+robust parsing capability	TechTool
+rule-based and example based machine translation modules	TechTool
+rule-based sentence planners	TechTool
+rule-based systems	TechTool
+rule-based translation systems	TechTool
+rule-reduction algorithm	TechTool
+scenario templates	TechTool
+search engine	TechTool
+segment order-sensitive methods	TechTool
+segmental k-means algorithm	TechTool
+segmentation	TechTool
+semantic annotation	TechTool
+semantic frame	TechTool
+semantic grammar	TechTool
+semantic interpretation	TechTool
+Semantic Role System	TechTool
+semantic-head-driven generation	TechTool
+sentence alignment tasks	TechTool
+sentence analysis	TechTool
+sentence condensation	TechTool
+sentence condensation systems	TechTool
+sentence planner	TechTool
+Sentence planning	TechTool
+sentence scoping	TechTool
+sentence-plan-ranker ( SPR )	TechTool
+SI recognition	TechTool
+Similarity-driven Transfer System ( SimTran )	TechTool
+Simulated annealing approach	TechTool
+SMT	TechTool
+SMT algorithms	TechTool
+SMT system	TechTool
+software infrastructure	TechTool
+source interval projections	TechTool
+speaker adaptation	TechTool
+speaker adaptation ( SA )	TechTool
+speaker group modeling	TechTool
+speaker-independent ( SI ) training	TechTool
+spectral clustering based approach	TechTool
+speech processing	TechTool
+speech recognition	TechTool
+speech recognition hypotheses ( SRH )	TechTool
+speech understanding	TechTool
+speech-search algorithm	TechTool
+spelling-checkers	TechTool
+Spelling-checkers	TechTool
+spoken dialogue system	TechTool
+spoken dialogue systems	TechTool
+spoken language system	TechTool
+Spoken language translation	TechTool
+spoken language translation	TechTool
+spoken language understanding	TechTool
+spoken language understanding system	TechTool
+SPR	TechTool
+SRHs	TechTool
+Statistical approach	TechTool
+statistical approaches	TechTool
+Statistical Learning Model ( SLM )	TechTool
+statistical machine translation	TechTool
+Statistical machine translation ( SMT )	TechTool
+statistical machine translation ( SMT )	TechTool
+Statistical Machine Translation ( SMT )	TechTool
+statistical machine translation (SMT)	TechTool
+statistical machine translation system	TechTool
+statistical machine translation tool kit	TechTool
+statistical models	TechTool
+statistical MT architectures	TechTool
+statistical MT systems	TechTool
+statistical POS tagger	TechTool
+statistical systems	TechTool
+statistically fitted rule-based model	TechTool
+stemmer	TechTool
+stochastic output selection	TechTool
+stochastic processes	TechTool
+stochastic tree-to-tree transducer	TechTool
+story link detection	TechTool
+structural disambiguation	TechTool
+structure-sharing	TechTool
+successive learners	TechTool
+superordinate substitution	TechTool
+supervised and unsupervised methods	TechTool
+supervised learning	TechTool
+Syllogistic reasoning with dispositions	TechTool
+Synchronous dependency insertion grammars	TechTool
+synchronous grammars	TechTool
+synchronous TAGs	TechTool
+syntactic ambiguity resolution	TechTool
+syntactic analysis	TechTool
+syntactic and pragmatic analysis	TechTool
+syntactic disambiguation	TechTool
+Syntactic Role System	TechTool
+syntax formalisms	TechTool
+syntax-based decoder	TechTool
+Syntax-based statistical machine translation ( MT )	TechTool
+syntax-based statistical machine translation system	TechTool
+system combination	TechTool
+TAG	TechTool
+tagger	TechTool
+tagging strategies	TechTool
+TAGs	TechTool
+target word selection	TechTool
+Task-based evaluation	TechTool
+task-oriented dialogs	TechTool
+TDMT	TechTool
+TDMT ( Transfer-Driven Machine Translation )	TechTool
+temporal anaphora resolution	TechTool
+term weighting statistical assignment paradigm	TechTool
+terminal substring parsing	TechTool
+text browser	TechTool
+text mining	TechTool
+text processing software	TechTool
+text retrieval application	TechTool
+text understanding	TechTool
+text-understanding systems	TechTool
+Thai key prediction	TechTool
+Thai-English language identification	TechTool
+title-driven name recognition	TechTool
+token classification task	TechTool
+top-down derivation	TechTool
+Topic Detection and Tracking tasks	TechTool
+trainable sentence planner	TechTool
+training	TechTool
+training algorithm	TechTool
+training method	TechTool
+transfer mappings	TechTool
+transfer phase	TechTool
+transfer system	TechTool
+translation	TechTool
+translation memory system	TechTool
+translation system	TechTool
+translation systems	TechTool
+Tree Adjoining Grammars	TechTool
+tree-adjoining grammars ( TAG )	TechTool
+tree-to-tree translation	TechTool
+two-step clustering process	TechTool
+typed feature structures	TechTool
+type-unification	TechTool
+typing-algorithm	TechTool
+underspecified chart representations	TechTool
+underspecified semantic representation ( USR )	TechTool
+unification	TechTool
+Unification	TechTool
+unification algorithms	TechTool
+Unification Categorial Grammar ( UCG )	TechTool
+unification framework	TechTool
+unification-based grammar formalism	TechTool
+Unification-based grammar formalisms	TechTool
+unification-based grammar parsing	TechTool
+unsupervised algorithm	TechTool
+unsupervised component	TechTool
+unsupervised learning algorithm	TechTool
+unsupervised learning approach	TechTool
+unsupervised structure finding methods	TechTool
+unsupervised technique	TechTool
+unsupervised training	TechTool
+unsupervised word alignment component	TechTool
+unsupervised WSD	TechTool
+unsupervised WSD systems	TechTool
+user modeling	TechTool
+user modeling systems	TechTool
+USRs	TechTool
+utterance classification	TechTool
+vector space model	TechTool
+visualization method	TechTool
+voice interactive system	TechTool
+voting- and arbiter-based combination strategies	TechTool
+web	TechTool
+Web	TechTool
+Web-based computer-assisted academic writing	TechTool
+word alignment	TechTool
+word classification	TechTool
+word disambiguation	TechTool
+Word Identification	TechTool
+word order generation	TechTool
+word segmentation	TechTool
+word sense disambigation models	TechTool
+word sense disambiguation	TechTool
+word sense disambiguation ( WSD )	TechTool
+word sense disambiguation ( WSD ) models	TechTool
+word set representation	TechTool
+word-sense disambiguation algorithm	TechTool
+word-sense disambiguation systems	TechTool
+word-trigram recognition	TechTool
+WSD models	TechTool
+WSD programs	TechTool
+WSI	TechTool
+WSI algorithm	TechTool
+APT	TechTool
+CARE	TechTool
+CCLINC Korean-to-English translation system	TechTool
+Chat-80	TechTool
+CMU's SMT system	TechTool
+FERRET	TechTool
+FlexP	TechTool
+FROFF	TechTool
+IDUS ( Intelligent Document Understanding System )	TechTool
+InfoMagnets	TechTool
+JAVELIN	TechTool
+JAVELIN system	TechTool
+LCS-Marine	TechTool
+LHIP	TechTool
+linguistic tools	TechTool
+LOGON MT demonstrator	TechTool
+Lucy	TechTool
+MIT ATIS ( Air Travel Information Service ) system	TechTool
+MIT ATIS system	TechTool
+NOMAD	TechTool
+ONTOSCORE	TechTool
+Paramax spoken language understanding system	TechTool
+Paul	TechTool
+RAREAS	TechTool
+RINA	TechTool
+SPoT	TechTool
+SPRINT	TechTool
+STTK	TechTool
+SUMMIT recognizer	TechTool
+SYSCONJ system	TechTool
+TACITUS	TechTool
+TAP-XL Automated Analyst's Assistant	TechTool
+TGE	TechTool
+training examples	TechTool
