@@ -8,6 +8,8 @@ This repository contains the materials for a coarse-grained classification of co
 		* TechTool: technologies and tools
 		* Linguistics: linguistic theories, linguistic units, language resources, language resource products
 		* Remaining other
-	* output: The resulting term list with resulting classes. These terms were previously *not annotated* in the ACL RD-TEC.
+	* output: The resulting term list with resulting classes, including training data. Most of these terms were previously *not annotated* in the ACL RD-TEC.
 	* frequencies_over_time: Absolute and relative (normalised by the number of annotated terms per year) frequencies of semantic classes over all publication years. Our version of the ACL ARC spanned the years from 1965 up to 2006.
-* src: Python code for training and classification.
+* src
+	* data extraction: Tiny custom scripts for data preparation. Mainly put there for documentation.
+	* classification: Python code for training and classification.
