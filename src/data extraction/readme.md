@@ -12,5 +12,3 @@ Make sure to adapt the output paths to your needs before running the script. Als
 This script prepares the initial training file. Outputs of step 1 are read and semantic classes are stored for each term. Since for most terms, there are multiple (conflicting) class assignments, the script outputs the majority class as the initial training class for classification. Note that these are the original ACL RD-TEC 2.0 classes before manual relabeling. Before running the script, make sure to adjust I/O paths.
 
 The list of all terms in the corpus (including a major share of previously unlabeled data) was created mainly from the ACL RD-TEC 1.0 term list in combination extracted annotations from ACL RD-TEC 2.0. This is reflected in the output list in (folder output), which holds labels for more than 20,000 terms.
-
-classes over time nochmal prüfen - was ist genau enthalten, auf welcher grundlage basiert das?
