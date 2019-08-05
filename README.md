@@ -13,3 +13,7 @@ This repository contains the materials for a coarse-grained classification of co
 * src
 	* data extraction: Tiny custom scripts for data preparation. Mainly put there for documentation.
 	* classification: Python code for training and classification.
+
+If you use the data or code provided here, please cite the [following paper](http://www.lrec-conf.org/proceedings/lrec2018/pdf/154.pdf) (where appropriate):
+
+Anne-Kathrin Schumann, Héctor Martínez Alonso: "Automatic Annotation of Semantic Term Types in the Complete ACL Anthology Reference Corpus". 11th Language Resources and Evaluation Conference (LREC) 2018, pp. 3707-3715. Miyazaki, Japan, May 7-12, 2018. European Language Resources Association.
